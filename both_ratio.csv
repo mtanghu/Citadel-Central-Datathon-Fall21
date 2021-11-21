@@ -1,0 +1,1342 @@
+Location,Year,ParentLocationCode,ParentLocation,SpatialDimValueCode,Gender,Value,ratio
+Eswatini,2018,AFR,Africa,SWZ,Both sexes,10.7,0.11518324607329843
+Bahamas,2018,AMR,Americas,BHS,Both sexes,10.9,0.17204301075268816
+Jamaica,2018,AMR,Americas,JAM,Both sexes,11.0,0.23728813559322035
+Chad,2018,AFR,Africa,TCD,Both sexes,11.8,0.10798122065727699
+Kenya,2018,AFR,Africa,KEN,Both sexes,11.8,0.1346153846153846
+Mali,2018,AFR,Africa,MLI,Both sexes,12.0,0.07589285714285715
+Guyana,2018,AMR,Americas,GUY,Both sexes,12.2,0.0995475113122172
+Uzbekistan,2018,EUR,Europe,UZB,Both sexes,12.3,0.055793991416309016
+Burundi,2018,AFR,Africa,BDI,Both sexes,12.6,0.3404255319148936
+El Salvador,2018,AMR,Americas,SLV,Both sexes,12.7,0.10964912280701754
+Malawi,2018,AFR,Africa,MWI,Both sexes,12.8,0.25490196078431376
+Paraguay,2018,AMR,Americas,PRY,Both sexes,12.8,0.22596153846153846
+Côte d’Ivoire,2018,AFR,Africa,CIV,Both sexes,13.0,0.06584362139917696
+Rwanda,2018,AFR,Africa,RWA,Both sexes,13.3,0.35025380710659904
+United Republic of Tanzania,2018,AFR,Africa,TZA,Both sexes,13.3,0.13191489361702127
+Iceland,2018,EUR,Europe,ISL,Both sexes,13.8,0.9856115107913669
+Mexico,2018,AMR,Americas,MEX,Both sexes,13.9,0.30660377358490565
+Zimbabwe,2018,AFR,Africa,ZWE,Both sexes,13.9,0.04905660377358491
+Iran (Islamic Republic of),2018,EMR,Eastern Mediterranean,IRN,Both sexes,14.0,0.14227642276422764
+Qatar,2018,EMR,Eastern Mediterranean,QAT,Both sexes,14.0,0.04868913857677903
+Gambia,2018,AFR,Africa,GMB,Both sexes,14.4,0.054945054945054944
+Mozambique,2018,AFR,Africa,MOZ,Both sexes,14.4,0.2307692307692308
+Morocco,2018,EMR,Eastern Mediterranean,MAR,Both sexes,14.7,0.031468531468531465
+Zambia,2018,AFR,Africa,ZMB,Both sexes,14.7,0.17600000000000002
+New Zealand,2018,WPR,Western Pacific,NZL,Both sexes,14.8,0.8385093167701863
+Brunei Darussalam,2018,WPR,Western Pacific,BRN,Both sexes,15.5,0.08741258741258741
+Burkina Faso,2018,AFR,Africa,BFA,Both sexes,16.0,0.28915662650602414
+Congo,2018,AFR,Africa,COG,Both sexes,16.1,0.06644518272425248
+Australia,2018,WPR,Western Pacific,AUS,Both sexes,16.2,0.7272727272727273
+Brazil,2018,AMR,Americas,BRA,Both sexes,16.5,0.5348837209302325
+Singapore,2018,WPR,Western Pacific,SGP,Both sexes,16.5,0.1834532374100719
+Saudi Arabia,2018,EMR,Eastern Mediterranean,SAU,Both sexes,16.6,0.06410256410256411
+Canada,2018,AMR,Americas,CAN,Both sexes,17.5,0.5462555066079295
+Namibia,2018,AFR,Africa,NAM,Both sexes,17.9,0.2605633802816902
+United Arab Emirates,2018,EMR,Eastern Mediterranean,ARE,Both sexes,18.2,0.02247191011235955
+Norway,2018,EUR,Europe,NOR,Both sexes,18.4,0.9267015706806282
+Denmark,2018,EUR,Europe,DNK,Both sexes,18.6,1.016304347826087
+Algeria,2018,AFR,Africa,DZA,Both sexes,18.8,0.03856749311294766
+Democratic People's Republic of Korea,2018,SEAR,South-East Asia,PRK,Both sexes,18.8,0.0
+United Kingdom of Great Britain and Northern Ireland,2018,EUR,Europe,GBR,Both sexes,19.2,0.8199052132701422
+Comoros,2018,AFR,Africa,COM,Both sexes,19.5,0.3076923076923077
+Azerbaijan,2018,EUR,Europe,AZE,Both sexes,19.6,0.005128205128205128
+Finland,2018,EUR,Europe,FIN,Both sexes,19.7,0.8714285714285714
+Sierra Leone,2018,AFR,Africa,SLE,Both sexes,19.8,0.27419354838709675
+Pakistan,2018,EMR,Eastern Mediterranean,PAK,Both sexes,20.0,0.19047619047619047
+Yemen,2018,EMR,Eastern Mediterranean,YEM,Both sexes,20.9,0.2861538461538462
+Seychelles,2018,AFR,Africa,SYC,Both sexes,21.1,0.19546742209631732
+Egypt,2018,EMR,Eastern Mediterranean,EGY,Both sexes,21.4,0.009456264775413713
+Luxembourg,2018,EUR,Europe,LUX,Both sexes,21.7,0.8389830508474576
+Argentina,2018,AMR,Americas,ARG,Both sexes,21.8,0.5460992907801419
+Cambodia,2018,WPR,Western Pacific,KHM,Both sexes,21.8,0.16844919786096257
+Malaysia,2018,WPR,Western Pacific,MYS,Both sexes,21.8,0.023419203747072598
+Uruguay,2018,AMR,Americas,URY,Both sexes,21.8,0.7301587301587301
+Japan,2018,WPR,Western Pacific,JPN,Both sexes,21.9,0.31626506024096385
+Republic of Korea,2018,WPR,Western Pacific,KOR,Both sexes,22.0,0.1544502617801047
+Kuwait,2018,EMR,Eastern Mediterranean,KWT,Both sexes,22.1,0.08312958435207823
+Iraq,2018,EMR,Eastern Mediterranean,IRQ,Both sexes,22.2,0.08823529411764706
+Slovenia,2018,EUR,Europe,SVN,Both sexes,22.7,0.8087649402390438
+Thailand,2018,SEAR,South-East Asia,THA,Both sexes,22.8,0.07294117647058823
+Sri Lanka,2018,SEAR,South-East Asia,LKA,Both sexes,22.9,0.0625
+Italy,2018,EUR,Europe,ITA,Both sexes,23.4,0.7232472324723247
+Netherlands,2018,EUR,Europe,NLD,Both sexes,23.4,0.83203125
+Ireland,2018,EUR,Europe,IRL,Both sexes,23.6,0.8122605363984674
+Botswana,2018,AFR,Africa,BWA,Both sexes,23.7,0.2707774798927614
+Palau,2018,WPR,Western Pacific,PLW,Both sexes,23.7,0.3085399449035813
+Vanuatu,2018,WPR,Western Pacific,VUT,Both sexes,24.1,0.07333333333333333
+Philippines,2018,WPR,Western Pacific,PHL,Both sexes,24.3,0.16826923076923075
+Kazakhstan,2018,EUR,Europe,KAZ,Both sexes,24.4,0.15639810426540282
+China,2018,WPR,Western Pacific,CHN,Both sexes,24.7,0.03773584905660377
+Belgium,2018,EUR,Europe,BEL,Both sexes,25.0,0.858736059479554
+Bahrain,2018,EMR,Eastern Mediterranean,BHR,Both sexes,25.1,0.2072289156626506
+Malta,2018,EUR,Europe,MLT,Both sexes,25.1,0.8093525179856115
+Switzerland,2018,EUR,Europe,CHE,Both sexes,25.1,0.8093525179856115
+United States of America,2018,AMR,Americas,USA,Both sexes,25.1,0.6245954692556634
+Republic of Moldova,2018,EUR,Europe,MDA,Both sexes,25.3,0.13452914798206278
+Israel,2018,EUR,Europe,ISR,Both sexes,25.5,0.44886363636363635
+Romania,2018,EUR,Europe,ROU,Both sexes,25.5,0.44886363636363635
+Ukraine,2018,EUR,Europe,UKR,Both sexes,25.5,0.24146341463414636
+Poland,2018,EUR,Europe,POL,Both sexes,26.0,0.712871287128713
+Tunisia,2018,EMR,Eastern Mediterranean,TUN,Both sexes,26.0,0.05906313645621181
+Belarus,2018,EUR,Europe,BLR,Both sexes,26.6,0.2429906542056075
+Cook Islands,2018,WPR,Western Pacific,COK,Both sexes,26.6,0.6964856230031949
+Armenia,2018,EUR,Europe,ARM,Both sexes,26.7,0.030888030888030892
+Fiji,2018,WPR,Western Pacific,FJI,Both sexes,26.7,0.2624113475177305
+Mauritius,2018,AFR,Africa,MUS,Both sexes,26.9,0.11180124223602486
+India,2018,SEAR,South-East Asia,IND,Both sexes,27.0,0.28809523809523807
+Cuba,2018,AMR,Americas,CUB,Both sexes,27.1,0.36523929471032746
+Lithuania,2018,EUR,Europe,LTU,Both sexes,27.1,0.538243626062323
+Mongolia,2018,WPR,Western Pacific,MNG,Both sexes,27.6,0.12627291242362526
+Kyrgyzstan,2018,EUR,Europe,KGZ,Both sexes,27.9,0.06476190476190476
+Portugal,2018,EUR,Europe,PRT,Both sexes,27.9,0.6726726726726727
+Spain,2018,EUR,Europe,ESP,Both sexes,27.9,0.9175257731958762
+Germany,2018,EUR,Europe,DEU,Both sexes,28.0,0.8695652173913044
+Russian Federation,2018,EUR,Europe,RUS,Both sexes,28.3,0.38386308068459657
+Sweden,2018,EUR,Europe,SWE,Both sexes,28.8,1.0390070921985817
+Madagascar,2018,AFR,Africa,MDG,Both sexes,28.9,0.2345415778251599
+Samoa,2018,WPR,Western Pacific,WSM,Both sexes,28.9,0.4142156862745098
+Austria,2018,EUR,Europe,AUT,Both sexes,29.1,0.9111842105263158
+Albania,2018,EUR,Europe,ALB,Both sexes,29.2,0.15643564356435644
+Turkey,2018,EUR,Europe,TUR,Both sexes,29.3,0.40963855421686746
+Georgia,2018,EUR,Europe,GEO,Both sexes,29.7,0.0959409594095941
+Lesotho,2018,AFR,Africa,LSO,Both sexes,29.7,0.08409506398537477
+Ghana,2018,AFR,Africa,GHA,Both sexes,3.7,0.05714285714285715
+Tonga,2018,WPR,Western Pacific,TON,Both sexes,30.2,0.25
+Estonia,2018,EUR,Europe,EST,Both sexes,30.5,0.6531165311653118
+Hungary,2018,EUR,Europe,HUN,Both sexes,30.6,0.7586206896551725
+South Africa,2018,AFR,Africa,ZAF,Both sexes,31.4,0.3418803418803419
+Czechia,2018,EUR,Europe,CZE,Both sexes,31.5,0.7668539325842697
+Nepal,2018,SEAR,South-East Asia,NPL,Both sexes,31.9,0.3148148148148148
+Slovakia,2018,EUR,Europe,SVK,Both sexes,32.3,0.6735751295336787
+Andorra,2018,EUR,Europe,AND,Both sexes,33.8,0.774278215223097
+France,2018,EUR,Europe,FRA,Both sexes,34.6,0.9222222222222223
+Croatia,2018,EUR,Europe,HRV,Both sexes,36.6,0.9313984168865435
+Cyprus,2018,EUR,Europe,CYP,Both sexes,36.7,0.46506986027944114
+Latvia,2018,EUR,Europe,LVA,Both sexes,36.7,0.48484848484848486
+Lao People's Democratic Republic,2018,WPR,Western Pacific,LAO,Both sexes,37.8,0.2579034941763727
+Indonesia,2018,SEAR,South-East Asia,IDN,Both sexes,37.9,0.075177304964539
+Solomon Islands,2018,WPR,Western Pacific,SLB,Both sexes,37.9,0.3559928443649374
+Timor-Leste,2018,SEAR,South-East Asia,TLS,Both sexes,38.2,0.16261398176291794
+Bosnia and Herzegovina,2018,EUR,Europe,BIH,Both sexes,38.3,0.6522678185745141
+Bulgaria,2018,EUR,Europe,BGR,Both sexes,38.9,0.8305882352941176
+Bangladesh,2018,SEAR,South-East Asia,BGD,Both sexes,39.1,0.29207920792079206
+Greece,2018,EUR,Europe,GRC,Both sexes,39.1,0.7240618101545254
+Ethiopia,2018,AFR,Africa,ETH,Both sexes,4.6,0.10843373493975902
+Nigeria,2018,AFR,Africa,NGA,Both sexes,4.8,0.05555555555555555
+Serbia,2018,EUR,Europe,SRB,Both sexes,40.6,1.03
+Lebanon,2018,EMR,Eastern Mediterranean,LBN,Both sexes,42.6,0.7267206477732794
+Chile,2018,AMR,Americas,CHL,Both sexes,44.7,0.8191056910569104
+Myanmar,2018,SEAR,South-East Asia,MMR,Both sexes,45.5,0.2962962962962963
+Tuvalu,2018,WPR,Western Pacific,TUV,Both sexes,48.7,0.4757575757575757
+Sao Tome and Principe,2018,AFR,Africa,STP,Both sexes,5.4,0.14736842105263157
+Kiribati,2018,WPR,Western Pacific,KIR,Both sexes,52.0,0.5174927113702624
+Nauru,2018,WPR,Western Pacific,NRU,Both sexes,52.1,1.0174081237911026
+Panama,2018,AMR,Americas,PAN,Both sexes,6.9,0.24324324324324326
+Benin,2018,AFR,Africa,BEN,Both sexes,7.2,0.15322580645161288
+Eritrea,2018,AFR,Africa,ERI,Both sexes,7.2,0.02112676056338028
+Togo,2018,AFR,Africa,TGO,Both sexes,7.6,0.11851851851851852
+Colombia,2018,AMR,Americas,COL,Both sexes,7.9,0.3032786885245902
+Haiti,2018,AMR,Americas,HTI,Both sexes,8.3,0.24812030075187969
+Liberia,2018,AFR,Africa,LBR,Both sexes,8.4,0.11920529801324505
+Niger,2018,AFR,Africa,NER,Both sexes,8.6,0.049079754601226995
+Barbados,2018,AMR,Americas,BRB,Both sexes,8.7,0.15333333333333332
+Senegal,2018,AFR,Africa,SEN,Both sexes,9.1,0.040229885057471264
+Cameroon,2018,AFR,Africa,CMR,Both sexes,9.3,0.06857142857142857
+Dominican Republic,2018,AMR,Americas,DOM,Both sexes,9.4,0.6696428571428572
+Oman,2018,EMR,Eastern Mediterranean,OMN,Both sexes,9.6,0.03783783783783783
+Peru,2018,AMR,Americas,PER,Both sexes,9.6,0.23076923076923078
+Costa Rica,2018,AMR,Americas,CRI,Both sexes,9.8,0.3401360544217687
+Uganda,2018,AFR,Africa,UGA,Both sexes,9.8,0.25806451612903225
+Costa Rica,2017,AMR,Americas,CRI,Both sexes,10.1,0.33774834437086093
+Peru,2017,AMR,Americas,PER,Both sexes,10.2,0.22891566265060237
+Uganda,2017,AFR,Africa,UGA,Both sexes,10.3,0.26380368098159507
+Eswatini,2017,AFR,Africa,SWZ,Both sexes,10.7,0.12105263157894736
+Bahamas,2017,AMR,Americas,BHS,Both sexes,11.0,0.17741935483870966
+Jamaica,2017,AMR,Americas,JAM,Both sexes,11.3,0.2417582417582418
+Chad,2017,AFR,Africa,TCD,Both sexes,11.8,0.11267605633802816
+Mali,2017,AFR,Africa,MLI,Both sexes,12.0,0.07623318385650224
+Kenya,2017,AFR,Africa,KEN,Both sexes,12.1,0.1355140186915888
+Uzbekistan,2017,EUR,Europe,UZB,Both sexes,12.5,0.05485232067510549
+Guyana,2017,AMR,Americas,GUY,Both sexes,12.6,0.09999999999999999
+Burundi,2017,AFR,Africa,BDI,Both sexes,12.9,0.34375
+El Salvador,2017,AMR,Americas,SLV,Both sexes,13.0,0.11063829787234043
+Côte d’Ivoire,2017,AFR,Africa,CIV,Both sexes,13.2,0.06882591093117409
+Malawi,2017,AFR,Africa,MWI,Both sexes,13.3,0.2619047619047619
+Paraguay,2017,AMR,Americas,PRY,Both sexes,13.4,0.23502304147465436
+Rwanda,2017,AFR,Africa,RWA,Both sexes,13.5,0.355
+United Republic of Tanzania,2017,AFR,Africa,TZA,Both sexes,13.7,0.13692946058091285
+Qatar,2017,EMR,Eastern Mediterranean,QAT,Both sexes,14.1,0.05243445692883895
+Zimbabwe,2017,AFR,Africa,ZWE,Both sexes,14.1,0.05204460966542751
+Mexico,2017,AMR,Americas,MEX,Both sexes,14.3,0.30593607305936077
+Iceland,2017,EUR,Europe,ISL,Both sexes,14.4,0.9794520547945206
+Iran (Islamic Republic of),2017,EMR,Eastern Mediterranean,IRN,Both sexes,14.4,0.14342629482071712
+Gambia,2017,AFR,Africa,GMB,Both sexes,14.7,0.05755395683453238
+Mozambique,2017,AFR,Africa,MOZ,Both sexes,14.9,0.23651452282157676
+Zambia,2017,AFR,Africa,ZMB,Both sexes,14.9,0.17716535433070868
+Morocco,2017,EMR,Eastern Mediterranean,MAR,Both sexes,15.2,0.030612244897959186
+New Zealand,2017,WPR,Western Pacific,NZL,Both sexes,15.4,0.8493975903614457
+Brunei Darussalam,2017,WPR,Western Pacific,BRN,Both sexes,15.6,0.09059233449477352
+Congo,2017,AFR,Africa,COG,Both sexes,15.7,0.07167235494880546
+Burkina Faso,2017,AFR,Africa,BFA,Both sexes,16.4,0.3055555555555556
+Singapore,2017,WPR,Western Pacific,SGP,Both sexes,16.5,0.1863799283154122
+Australia,2017,WPR,Western Pacific,AUS,Both sexes,16.6,0.7291666666666667
+Saudi Arabia,2017,EMR,Eastern Mediterranean,SAU,Both sexes,16.6,0.06730769230769232
+Brazil,2017,AMR,Americas,BRA,Both sexes,17.2,0.5357142857142857
+Namibia,2017,AFR,Africa,NAM,Both sexes,18.1,0.2791519434628975
+Canada,2017,AMR,Americas,CAN,Both sexes,18.3,0.5508474576271186
+United Arab Emirates,2017,EMR,Eastern Mediterranean,ARE,Both sexes,18.5,0.0221606648199446
+Algeria,2017,AFR,Africa,DZA,Both sexes,18.9,0.038461538461538464
+Democratic People's Republic of Korea,2017,SEAR,South-East Asia,PRK,Both sexes,18.9,0.0
+Denmark,2017,EUR,Europe,DNK,Both sexes,19.3,1.0
+Norway,2017,EUR,Europe,NOR,Both sexes,19.3,0.9396984924623116
+United Kingdom of Great Britain and Northern Ireland,2017,EUR,Europe,GBR,Both sexes,19.8,0.8211009174311926
+Azerbaijan,2017,EUR,Europe,AZE,Both sexes,19.9,0.005050505050505051
+Comoros,2017,AFR,Africa,COM,Both sexes,20.1,0.32673267326732675
+Finland,2017,EUR,Europe,FIN,Both sexes,20.1,0.8525345622119817
+Sierra Leone,2017,AFR,Africa,SLE,Both sexes,20.5,0.2852664576802508
+Pakistan,2017,EMR,Eastern Mediterranean,PAK,Both sexes,20.7,0.19653179190751444
+Seychelles,2017,AFR,Africa,SYC,Both sexes,21.3,0.19662921348314605
+Yemen,2017,EMR,Eastern Mediterranean,YEM,Both sexes,21.3,0.2909090909090909
+Egypt,2017,EMR,Eastern Mediterranean,EGY,Both sexes,21.4,0.009456264775413713
+Luxembourg,2017,EUR,Europe,LUX,Both sexes,22.1,0.8340248962655602
+Malaysia,2017,WPR,Western Pacific,MYS,Both sexes,22.1,0.02552204176334107
+Japan,2017,WPR,Western Pacific,JPN,Both sexes,22.4,0.313782991202346
+Kuwait,2017,EMR,Eastern Mediterranean,KWT,Both sexes,22.4,0.0849514563106796
+Iraq,2017,EMR,Eastern Mediterranean,IRQ,Both sexes,22.5,0.09223300970873785
+Uruguay,2017,AMR,Americas,URY,Both sexes,22.5,0.7269230769230769
+Republic of Korea,2017,WPR,Western Pacific,KOR,Both sexes,22.6,0.15012722646310434
+Argentina,2017,AMR,Americas,ARG,Both sexes,22.7,0.5547945205479452
+Cambodia,2017,WPR,Western Pacific,KHM,Both sexes,22.8,0.17268041237113405
+Slovenia,2017,EUR,Europe,SVN,Both sexes,22.8,0.8134920634920635
+Sri Lanka,2017,SEAR,South-East Asia,LKA,Both sexes,23.1,0.06682027649769585
+Thailand,2017,SEAR,South-East Asia,THA,Both sexes,23.3,0.07390300230946883
+Italy,2017,EUR,Europe,ITA,Both sexes,23.5,0.7216117216117216
+Botswana,2017,AFR,Africa,BWA,Both sexes,23.9,0.2891891891891892
+Netherlands,2017,EUR,Europe,NLD,Both sexes,23.9,0.8314176245210727
+Ireland,2017,EUR,Europe,IRL,Both sexes,24.2,0.8195488721804511
+Palau,2017,WPR,Western Pacific,PLW,Both sexes,24.3,0.3099730458221024
+Vanuatu,2017,WPR,Western Pacific,VUT,Both sexes,24.4,0.07252747252747252
+Philippines,2017,WPR,Western Pacific,PHL,Both sexes,24.7,0.1729857819905213
+China,2017,WPR,Western Pacific,CHN,Both sexes,24.9,0.0375
+Kazakhstan,2017,EUR,Europe,KAZ,Both sexes,24.9,0.15813953488372093
+Bahrain,2017,EMR,Eastern Mediterranean,BHR,Both sexes,25.2,0.21153846153846154
+Belgium,2017,EUR,Europe,BEL,Both sexes,25.2,0.8566176470588236
+Republic of Moldova,2017,EUR,Europe,MDA,Both sexes,25.2,0.13513513513513514
+United States of America,2017,AMR,Americas,USA,Both sexes,25.3,0.6322580645161291
+Switzerland,2017,EUR,Europe,CHE,Both sexes,25.4,0.8042704626334519
+Malta,2017,EUR,Europe,MLT,Both sexes,25.7,0.8
+Israel,2017,EUR,Europe,ISR,Both sexes,25.8,0.45480225988700573
+Ukraine,2017,EUR,Europe,UKR,Both sexes,26.0,0.24401913875598086
+Romania,2017,EUR,Europe,ROU,Both sexes,26.2,0.4568245125348189
+Poland,2017,EUR,Europe,POL,Both sexes,26.7,0.7115384615384616
+Tunisia,2017,EMR,Eastern Mediterranean,TUN,Both sexes,26.7,0.05952380952380953
+Fiji,2017,WPR,Western Pacific,FJI,Both sexes,26.9,0.26352941176470585
+Belarus,2017,EUR,Europe,BLR,Both sexes,27.0,0.2408256880733945
+Mauritius,2017,AFR,Africa,MUS,Both sexes,27.2,0.11934156378600823
+Armenia,2017,EUR,Europe,ARM,Both sexes,27.3,0.030245746691871456
+Cook Islands,2017,WPR,Western Pacific,COK,Both sexes,27.3,0.6956521739130433
+Lithuania,2017,EUR,Europe,LTU,Both sexes,27.6,0.5263157894736842
+Portugal,2017,EUR,Europe,PRT,Both sexes,27.7,0.6586826347305389
+Cuba,2017,AMR,Americas,CUB,Both sexes,27.8,0.3728395061728395
+India,2017,SEAR,South-East Asia,IND,Both sexes,27.8,0.30210772833723654
+Kyrgyzstan,2017,EUR,Europe,KGZ,Both sexes,28.1,0.06439393939393939
+Mongolia,2017,WPR,Western Pacific,MNG,Both sexes,28.2,0.128
+Spain,2017,EUR,Europe,ESP,Both sexes,28.2,0.9054054054054054
+Germany,2017,EUR,Europe,DEU,Both sexes,28.4,0.8651315789473685
+Russian Federation,2017,EUR,Europe,RUS,Both sexes,28.4,0.3743961352657005
+Lesotho,2017,AFR,Africa,LSO,Both sexes,29.2,0.08955223880597014
+Albania,2017,EUR,Europe,ALB,Both sexes,29.3,0.15810276679841898
+Samoa,2017,WPR,Western Pacific,WSM,Both sexes,29.3,0.4144578313253012
+Madagascar,2017,AFR,Africa,MDG,Both sexes,29.4,0.2452431289640592
+Turkey,2017,EUR,Europe,TUR,Both sexes,29.5,0.40238095238095234
+Austria,2017,EUR,Europe,AUT,Both sexes,29.9,0.9073482428115015
+Georgia,2017,EUR,Europe,GEO,Both sexes,29.9,0.09523809523809523
+Sweden,2017,EUR,Europe,SWE,Both sexes,29.9,1.0515463917525774
+Ghana,2017,AFR,Africa,GHA,Both sexes,3.8,0.05555555555555556
+Tonga,2017,WPR,Western Pacific,TON,Both sexes,30.3,0.25206611570247933
+Estonia,2017,EUR,Europe,EST,Both sexes,31.0,0.6402116402116402
+Hungary,2017,EUR,Europe,HUN,Both sexes,31.0,0.7613636363636364
+South Africa,2017,AFR,Africa,ZAF,Both sexes,31.6,0.35698924731182796
+Czechia,2017,EUR,Europe,CZE,Both sexes,31.7,0.766016713091922
+Slovakia,2017,EUR,Europe,SVK,Both sexes,32.2,0.6640826873385012
+Nepal,2017,SEAR,South-East Asia,NPL,Both sexes,33.1,0.3326612903225806
+Andorra,2017,EUR,Europe,AND,Both sexes,33.9,0.765625
+France,2017,EUR,Europe,FRA,Both sexes,34.6,0.9090909090909092
+Croatia,2017,EUR,Europe,HRV,Both sexes,36.5,0.9083769633507853
+Latvia,2017,EUR,Europe,LVA,Both sexes,36.9,0.48192771084337355
+Cyprus,2017,EUR,Europe,CYP,Both sexes,37.0,0.45579567779960706
+Solomon Islands,2017,WPR,Western Pacific,SLB,Both sexes,38.0,0.3620071684587814
+Indonesia,2017,SEAR,South-East Asia,IDN,Both sexes,38.1,0.07943262411347517
+Bosnia and Herzegovina,2017,EUR,Europe,BIH,Both sexes,38.7,0.6503198294243071
+Lao People's Democratic Republic,2017,WPR,Western Pacific,LAO,Both sexes,38.7,0.26677577741407527
+Timor-Leste,2017,SEAR,South-East Asia,TLS,Both sexes,39.0,0.1624441132637854
+Bangladesh,2017,SEAR,South-East Asia,BGD,Both sexes,39.5,0.30578512396694213
+Bulgaria,2017,EUR,Europe,BGR,Both sexes,39.5,0.8137931034482758
+Greece,2017,EUR,Europe,GRC,Both sexes,39.6,0.7239130434782608
+Ethiopia,2017,AFR,Africa,ETH,Both sexes,4.7,0.11764705882352941
+Nigeria,2017,AFR,Africa,NGA,Both sexes,4.9,0.06521739130434782
+Serbia,2017,EUR,Europe,SRB,Both sexes,40.9,1.019753086419753
+Lebanon,2017,EMR,Eastern Mediterranean,LBN,Both sexes,42.6,0.7317073170731707
+Chile,2017,AMR,Americas,CHL,Both sexes,45.0,0.8272357723577236
+Myanmar,2017,SEAR,South-East Asia,MMR,Both sexes,46.1,0.3055162659123055
+Tuvalu,2017,WPR,Western Pacific,TUV,Both sexes,49.3,0.4738415545590433
+Sao Tome and Principe,2017,AFR,Africa,STP,Both sexes,5.5,0.15789473684210525
+Kiribati,2017,WPR,Western Pacific,KIR,Both sexes,52.8,0.5267727930535456
+Nauru,2017,WPR,Western Pacific,NRU,Both sexes,52.9,1.0268199233716475
+Panama,2017,AMR,Americas,PAN,Both sexes,7.2,0.25
+Benin,2017,AFR,Africa,BEN,Both sexes,7.5,0.15384615384615385
+Eritrea,2017,AFR,Africa,ERI,Both sexes,7.5,0.020408163265306124
+Togo,2017,AFR,Africa,TGO,Both sexes,7.8,0.12318840579710144
+Colombia,2017,AMR,Americas,COL,Both sexes,8.2,0.30952380952380953
+Haiti,2017,AMR,Americas,HTI,Both sexes,8.5,0.2518518518518518
+Niger,2017,AFR,Africa,NER,Both sexes,8.5,0.05590062111801242
+Liberia,2017,AFR,Africa,LBR,Both sexes,8.6,0.1241830065359477
+Barbados,2017,AMR,Americas,BRB,Both sexes,8.7,0.152317880794702
+Senegal,2017,AFR,Africa,SEN,Both sexes,9.3,0.0449438202247191
+Cameroon,2017,AFR,Africa,CMR,Both sexes,9.4,0.06857142857142857
+Oman,2017,EMR,Eastern Mediterranean,OMN,Both sexes,9.6,0.043243243243243246
+Dominican Republic,2017,AMR,Americas,DOM,Both sexes,9.7,0.6724137931034483
+Dominican Republic,2016,AMR,Americas,DOM,Both sexes,10.1,0.6749999999999999
+Costa Rica,2016,AMR,Americas,CRI,Both sexes,10.5,0.33974358974358976
+Eswatini,2016,AFR,Africa,SWZ,Both sexes,10.8,0.13089005235602094
+Bahamas,2016,AMR,Americas,BHS,Both sexes,10.9,0.17837837837837836
+Uganda,2016,AFR,Africa,UGA,Both sexes,10.9,0.26744186046511625
+Peru,2016,AMR,Americas,PER,Both sexes,11.0,0.22905027932960895
+Jamaica,2016,AMR,Americas,JAM,Both sexes,11.6,0.2459893048128342
+Chad,2016,AFR,Africa,TCD,Both sexes,12.1,0.12037037037037036
+Mali,2016,AFR,Africa,MLI,Both sexes,12.1,0.08035714285714286
+Kenya,2016,AFR,Africa,KEN,Both sexes,12.4,0.13761467889908258
+Uzbekistan,2016,EUR,Europe,UZB,Both sexes,12.6,0.05439330543933055
+Burundi,2016,AFR,Africa,BDI,Both sexes,13.2,0.3520408163265306
+Guyana,2016,AMR,Americas,GUY,Both sexes,13.2,0.09999999999999999
+El Salvador,2016,AMR,Americas,SLV,Both sexes,13.3,0.11297071129707115
+Côte d’Ivoire,2016,AFR,Africa,CIV,Both sexes,13.4,0.07200000000000001
+Malawi,2016,AFR,Africa,MWI,Both sexes,13.8,0.2648401826484018
+Rwanda,2016,AFR,Africa,RWA,Both sexes,13.9,0.35784313725490197
+Paraguay,2016,AMR,Americas,PRY,Both sexes,14.0,0.23893805309734514
+Qatar,2016,EMR,Eastern Mediterranean,QAT,Both sexes,14.1,0.05223880597014925
+United Republic of Tanzania,2016,AFR,Africa,TZA,Both sexes,14.1,0.13709677419354838
+Zimbabwe,2016,AFR,Africa,ZWE,Both sexes,14.3,0.051470588235294115
+Iran (Islamic Republic of),2016,EMR,Eastern Mediterranean,IRN,Both sexes,14.6,0.14901960784313725
+Mexico,2016,AMR,Americas,MEX,Both sexes,14.8,0.3111111111111111
+Gambia,2016,AFR,Africa,GMB,Both sexes,15.0,0.06007067137809187
+Iceland,2016,EUR,Europe,ISL,Both sexes,15.0,0.9607843137254901
+Zambia,2016,AFR,Africa,ZMB,Both sexes,15.2,0.17898832684824903
+Congo,2016,AFR,Africa,COG,Both sexes,15.4,0.07342657342657342
+Mozambique,2016,AFR,Africa,MOZ,Both sexes,15.4,0.23694779116465867
+Morocco,2016,EMR,Eastern Mediterranean,MAR,Both sexes,15.5,0.02990033222591362
+Brunei Darussalam,2016,WPR,Western Pacific,BRN,Both sexes,15.7,0.09407665505226481
+New Zealand,2016,WPR,Western Pacific,NZL,Both sexes,16.0,0.8497109826589595
+Saudi Arabia,2016,EMR,Eastern Mediterranean,SAU,Both sexes,16.6,0.07119741100323626
+Singapore,2016,WPR,Western Pacific,SGP,Both sexes,16.6,0.1863799283154122
+Burkina Faso,2016,AFR,Africa,BFA,Both sexes,16.9,0.32421875
+Australia,2016,WPR,Western Pacific,AUS,Both sexes,17.1,0.7360406091370558
+Brazil,2016,AMR,Americas,BRA,Both sexes,17.8,0.5387931034482759
+Namibia,2016,AFR,Africa,NAM,Both sexes,18.3,0.29787234042553196
+United Arab Emirates,2016,EMR,Eastern Mediterranean,ARE,Both sexes,18.5,0.0221606648199446
+Democratic People's Republic of Korea,2016,SEAR,South-East Asia,PRK,Both sexes,19.0,0.0
+Algeria,2016,AFR,Africa,DZA,Both sexes,19.1,0.04076086956521739
+Canada,2016,AMR,Americas,CAN,Both sexes,19.1,0.5591836734693877
+Denmark,2016,EUR,Europe,DNK,Both sexes,20.0,0.9900497512437809
+Norway,2016,EUR,Europe,NOR,Both sexes,20.2,0.9330143540669857
+Azerbaijan,2016,EUR,Europe,AZE,Both sexes,20.3,0.0049504950495049506
+Finland,2016,EUR,Europe,FIN,Both sexes,20.4,0.846153846153846
+United Kingdom of Great Britain and Northern Ireland,2016,EUR,Europe,GBR,Both sexes,20.6,0.8348214285714286
+Comoros,2016,AFR,Africa,COM,Both sexes,20.9,0.34838709677419355
+Sierra Leone,2016,AFR,Africa,SLE,Both sexes,21.1,0.29141104294478526
+Egypt,2016,EMR,Eastern Mediterranean,EGY,Both sexes,21.3,0.009456264775413713
+Seychelles,2016,AFR,Africa,SYC,Both sexes,21.5,0.19722222222222222
+Pakistan,2016,EMR,Eastern Mediterranean,PAK,Both sexes,21.6,0.20391061452513967
+Yemen,2016,EMR,Eastern Mediterranean,YEM,Both sexes,21.7,0.2955223880597015
+Kuwait,2016,EMR,Eastern Mediterranean,KWT,Both sexes,22.4,0.08737864077669903
+Luxembourg,2016,EUR,Europe,LUX,Both sexes,22.5,0.8185483870967742
+Malaysia,2016,WPR,Western Pacific,MYS,Both sexes,22.5,0.025114155251141555
+Iraq,2016,EMR,Eastern Mediterranean,IRQ,Both sexes,22.6,0.09443099273607748
+Japan,2016,WPR,Western Pacific,JPN,Both sexes,22.8,0.3141210374639769
+Slovenia,2016,EUR,Europe,SVN,Both sexes,23.0,0.8181818181818181
+Uruguay,2016,AMR,Americas,URY,Both sexes,23.2,0.7313432835820896
+Republic of Korea,2016,WPR,Western Pacific,KOR,Both sexes,23.3,0.14814814814814814
+Sri Lanka,2016,SEAR,South-East Asia,LKA,Both sexes,23.3,0.07110091743119266
+Argentina,2016,AMR,Americas,ARG,Both sexes,23.6,0.5629139072847682
+Cambodia,2016,WPR,Western Pacific,KHM,Both sexes,23.6,0.17955112219451372
+Italy,2016,EUR,Europe,ITA,Both sexes,23.6,0.7137681159420289
+Thailand,2016,SEAR,South-East Asia,THA,Both sexes,23.6,0.07517084282460136
+Botswana,2016,AFR,Africa,BWA,Both sexes,24.3,0.3029490616621984
+Netherlands,2016,EUR,Europe,NLD,Both sexes,24.3,0.8339622641509434
+Ireland,2016,EUR,Europe,IRL,Both sexes,24.6,0.8395522388059701
+Palau,2016,WPR,Western Pacific,PLW,Both sexes,24.7,0.3146666666666667
+Vanuatu,2016,WPR,Western Pacific,VUT,Both sexes,24.8,0.07359307359307359
+China,2016,WPR,Western Pacific,CHN,Both sexes,25.1,0.039337474120082816
+Philippines,2016,WPR,Western Pacific,PHL,Both sexes,25.1,0.17798594847775173
+Republic of Moldova,2016,EUR,Europe,MDA,Both sexes,25.1,0.13318284424379234
+Bahrain,2016,EMR,Eastern Mediterranean,BHR,Both sexes,25.3,0.21342925659472423
+Kazakhstan,2016,EUR,Europe,KAZ,Both sexes,25.3,0.16018306636155605
+Switzerland,2016,EUR,Europe,CHE,Both sexes,25.4,0.7985865724381626
+Belgium,2016,EUR,Europe,BEL,Both sexes,25.5,0.8442028985507246
+United States of America,2016,AMR,Americas,USA,Both sexes,25.7,0.6317460317460317
+Malta,2016,EUR,Europe,MLT,Both sexes,25.9,0.7889273356401385
+Israel,2016,EUR,Europe,ISR,Both sexes,26.0,0.46067415730337075
+Ukraine,2016,EUR,Europe,UKR,Both sexes,26.6,0.24242424242424243
+Romania,2016,EUR,Europe,ROU,Both sexes,26.8,0.4632152588555858
+Fiji,2016,WPR,Western Pacific,FJI,Both sexes,27.1,0.26573426573426573
+Tunisia,2016,EMR,Eastern Mediterranean,TUN,Both sexes,27.1,0.060665362035225046
+Poland,2016,EUR,Europe,POL,Both sexes,27.4,0.7125
+Armenia,2016,EUR,Europe,ARM,Both sexes,27.5,0.029906542056074768
+Belarus,2016,EUR,Europe,BLR,Both sexes,27.5,0.23873873873873874
+Portugal,2016,EUR,Europe,PRT,Both sexes,27.5,0.6339285714285714
+Mauritius,2016,AFR,Africa,MUS,Both sexes,27.6,0.12219959266802444
+Cook Islands,2016,WPR,Western Pacific,COK,Both sexes,28.0,0.7042682926829269
+Lithuania,2016,EUR,Europe,LTU,Both sexes,28.0,0.5162162162162163
+Kyrgyzstan,2016,EUR,Europe,KGZ,Both sexes,28.2,0.06616257088846882
+Mongolia,2016,WPR,Western Pacific,MNG,Both sexes,28.4,0.13147410358565736
+Cuba,2016,AMR,Americas,CUB,Both sexes,28.6,0.3825665859564165
+Germany,2016,EUR,Europe,DEU,Both sexes,28.6,0.8571428571428571
+Lesotho,2016,AFR,Africa,LSO,Both sexes,28.7,0.09560229445506693
+Russian Federation,2016,EUR,Europe,RUS,Both sexes,28.7,0.3601895734597156
+India,2016,SEAR,South-East Asia,IND,Both sexes,28.8,0.3120728929384966
+Spain,2016,EUR,Europe,ESP,Both sexes,28.8,0.8856209150326797
+Albania,2016,EUR,Europe,ALB,Both sexes,29.7,0.16046966731898238
+Turkey,2016,EUR,Europe,TUR,Both sexes,29.8,0.39344262295081966
+Samoa,2016,WPR,Western Pacific,WSM,Both sexes,29.9,0.41469194312796204
+Ghana,2016,AFR,Africa,GHA,Both sexes,3.9,0.05405405405405406
+Madagascar,2016,AFR,Africa,MDG,Both sexes,30.0,0.2573221757322176
+Georgia,2016,EUR,Europe,GEO,Both sexes,30.1,0.09636363636363636
+Tonga,2016,WPR,Western Pacific,TON,Both sexes,30.4,0.2541322314049587
+Austria,2016,EUR,Europe,AUT,Both sexes,30.7,0.9009287925696595
+Sweden,2016,EUR,Europe,SWE,Both sexes,30.8,1.0430463576158941
+Hungary,2016,EUR,Europe,HUN,Both sexes,31.4,0.7640449438202247
+Estonia,2016,EUR,Europe,EST,Both sexes,31.5,0.6321243523316061
+Czechia,2016,EUR,Europe,CZE,Both sexes,31.9,0.7624309392265193
+South Africa,2016,AFR,Africa,ZAF,Both sexes,32.0,0.3667377398720682
+Slovakia,2016,EUR,Europe,SVK,Both sexes,32.1,0.6461538461538462
+Andorra,2016,EUR,Europe,AND,Both sexes,33.9,0.765625
+Nepal,2016,SEAR,South-East Asia,NPL,Both sexes,34.3,0.3503937007874016
+France,2016,EUR,Europe,FRA,Both sexes,34.6,0.9038461538461539
+Croatia,2016,EUR,Europe,HRV,Both sexes,36.3,0.8932291666666666
+Cyprus,2016,EUR,Europe,CYP,Both sexes,37.1,0.44639376218323584
+Latvia,2016,EUR,Europe,LVA,Both sexes,37.1,0.4810379241516966
+Indonesia,2016,SEAR,South-East Asia,IDN,Both sexes,38.1,0.08534850640113799
+Solomon Islands,2016,WPR,Western Pacific,SLB,Both sexes,38.1,0.36493738819320215
+Bosnia and Herzegovina,2016,EUR,Europe,BIH,Both sexes,39.1,0.6463157894736842
+Lao People's Democratic Republic,2016,WPR,Western Pacific,LAO,Both sexes,39.9,0.27272727272727276
+Timor-Leste,2016,SEAR,South-East Asia,TLS,Both sexes,39.9,0.1615720524017467
+Ethiopia,2016,AFR,Africa,ETH,Both sexes,4.8,0.11627906976744186
+Bangladesh,2016,SEAR,South-East Asia,BGD,Both sexes,40.1,0.3174342105263158
+Bulgaria,2016,EUR,Europe,BGR,Both sexes,40.1,0.8
+Greece,2016,EUR,Europe,GRC,Both sexes,40.2,0.7268817204301075
+Serbia,2016,EUR,Europe,SRB,Both sexes,41.2,1.0048661800486618
+Lebanon,2016,EMR,Eastern Mediterranean,LBN,Both sexes,42.6,0.7352342158859471
+Chile,2016,AMR,Americas,CHL,Both sexes,45.5,0.8253012048192772
+Myanmar,2016,SEAR,South-East Asia,MMR,Both sexes,46.8,0.3146067415730337
+Nigeria,2016,AFR,Africa,NGA,Both sexes,5.0,0.06382978723404255
+Sao Tome and Principe,2016,AFR,Africa,STP,Both sexes,5.5,0.1702127659574468
+Tuvalu,2016,WPR,Western Pacific,TUV,Both sexes,50.0,0.47345132743362833
+Kiribati,2016,WPR,Western Pacific,KIR,Both sexes,53.5,0.5373563218390804
+Nauru,2016,WPR,Western Pacific,NRU,Both sexes,53.9,1.0339622641509434
+Panama,2016,AMR,Americas,PAN,Both sexes,7.6,0.24590163934426232
+Eritrea,2016,AFR,Africa,ERI,Both sexes,7.7,0.02
+Benin,2016,AFR,Africa,BEN,Both sexes,7.8,0.16296296296296298
+Togo,2016,AFR,Africa,TGO,Both sexes,7.9,0.1357142857142857
+Niger,2016,AFR,Africa,NER,Both sexes,8.4,0.05660377358490566
+Colombia,2016,AMR,Americas,COL,Both sexes,8.6,0.3153846153846154
+Haiti,2016,AMR,Americas,HTI,Both sexes,8.6,0.25547445255474455
+Barbados,2016,AMR,Americas,BRB,Both sexes,8.8,0.15789473684210525
+Liberia,2016,AFR,Africa,LBR,Both sexes,8.8,0.12738853503184713
+Cameroon,2016,AFR,Africa,CMR,Both sexes,9.4,0.07428571428571429
+Senegal,2016,AFR,Africa,SEN,Both sexes,9.5,0.04395604395604396
+Oman,2016,EMR,Eastern Mediterranean,OMN,Both sexes,9.6,0.043243243243243246
+Dominican Republic,2015,AMR,Americas,DOM,Both sexes,10.5,0.68
+Costa Rica,2015,AMR,Americas,CRI,Both sexes,10.8,0.3416149068322981
+Eswatini,2015,AFR,Africa,SWZ,Both sexes,10.8,0.1368421052631579
+Bahamas,2015,AMR,Americas,BHS,Both sexes,11.0,0.18378378378378377
+Uganda,2015,AFR,Africa,UGA,Both sexes,11.4,0.2737430167597766
+Peru,2015,AMR,Americas,PER,Both sexes,11.7,0.23157894736842108
+Jamaica,2015,AMR,Americas,JAM,Both sexes,12.0,0.25
+Mali,2015,AFR,Africa,MLI,Both sexes,12.1,0.08482142857142858
+Chad,2015,AFR,Africa,TCD,Both sexes,12.2,0.12962962962962962
+Kenya,2015,AFR,Africa,KEN,Both sexes,12.7,0.13901345291479822
+Uzbekistan,2015,EUR,Europe,UZB,Both sexes,12.8,0.053497942386831275
+Burundi,2015,AFR,Africa,BDI,Both sexes,13.6,0.3582089552238806
+El Salvador,2015,AMR,Americas,SLV,Both sexes,13.6,0.11522633744855966
+Côte d’Ivoire,2015,AFR,Africa,CIV,Both sexes,13.8,0.078125
+Guyana,2015,AMR,Americas,GUY,Both sexes,13.8,0.1
+Qatar,2015,EMR,Eastern Mediterranean,QAT,Both sexes,14.2,0.05576208178438662
+Rwanda,2015,AFR,Africa,RWA,Both sexes,14.2,0.3605769230769231
+Malawi,2015,AFR,Africa,MWI,Both sexes,14.3,0.2711111111111111
+United Republic of Tanzania,2015,AFR,Africa,TZA,Both sexes,14.5,0.13725490196078433
+Zimbabwe,2015,AFR,Africa,ZWE,Both sexes,14.5,0.05454545454545454
+Paraguay,2015,AMR,Americas,PRY,Both sexes,14.6,0.24680851063829787
+Congo,2015,AFR,Africa,COG,Both sexes,15.0,0.07913669064748202
+Iran (Islamic Republic of),2015,EMR,Eastern Mediterranean,IRN,Both sexes,15.1,0.14885496183206107
+Mexico,2015,AMR,Americas,MEX,Both sexes,15.2,0.316017316017316
+Gambia,2015,AFR,Africa,GMB,Both sexes,15.3,0.06228373702422146
+Zambia,2015,AFR,Africa,ZMB,Both sexes,15.4,0.18390804597701146
+Brunei Darussalam,2015,WPR,Western Pacific,BRN,Both sexes,15.7,0.09756097560975609
+Iceland,2015,EUR,Europe,ISL,Both sexes,15.7,0.9625
+Morocco,2015,EMR,Eastern Mediterranean,MAR,Both sexes,15.9,0.032467532467532464
+Mozambique,2015,AFR,Africa,MOZ,Both sexes,16.0,0.24031007751937986
+Singapore,2015,WPR,Western Pacific,SGP,Both sexes,16.5,0.18705035971223022
+New Zealand,2015,WPR,Western Pacific,NZL,Both sexes,16.6,0.8651685393258427
+Saudi Arabia,2015,EMR,Eastern Mediterranean,SAU,Both sexes,16.6,0.07467532467532467
+Burkina Faso,2015,AFR,Africa,BFA,Both sexes,17.4,0.34362934362934366
+Australia,2015,WPR,Western Pacific,AUS,Both sexes,17.7,0.7438423645320197
+Brazil,2015,AMR,Americas,BRA,Both sexes,18.5,0.5416666666666666
+Namibia,2015,AFR,Africa,NAM,Both sexes,18.6,0.32269503546099293
+United Arab Emirates,2015,EMR,Eastern Mediterranean,ARE,Both sexes,18.7,0.024657534246575342
+Democratic People's Republic of Korea,2015,SEAR,South-East Asia,PRK,Both sexes,19.2,0.0
+Algeria,2015,AFR,Africa,DZA,Both sexes,19.3,0.04054054054054054
+Canada,2015,AMR,Americas,CAN,Both sexes,20.0,0.5625
+Azerbaijan,2015,EUR,Europe,AZE,Both sexes,20.7,0.004866180048661801
+Denmark,2015,EUR,Europe,DNK,Both sexes,20.8,0.976303317535545
+Finland,2015,EUR,Europe,FIN,Both sexes,20.9,0.8377192982456141
+Norway,2015,EUR,Europe,NOR,Both sexes,21.2,0.9406392694063929
+Egypt,2015,EMR,Eastern Mediterranean,EGY,Both sexes,21.3,0.011876484560570071
+United Kingdom of Great Britain and Northern Ireland,2015,EUR,Europe,GBR,Both sexes,21.3,0.8362068965517241
+Seychelles,2015,AFR,Africa,SYC,Both sexes,21.7,0.19559228650137742
+Comoros,2015,AFR,Africa,COM,Both sexes,21.8,0.3753943217665615
+Sierra Leone,2015,AFR,Africa,SLE,Both sexes,21.8,0.30149253731343284
+Yemen,2015,EMR,Eastern Mediterranean,YEM,Both sexes,22.2,0.30294117647058827
+Pakistan,2015,EMR,Eastern Mediterranean,PAK,Both sexes,22.3,0.21525885558583105
+Kuwait,2015,EMR,Eastern Mediterranean,KWT,Both sexes,22.6,0.09156626506024096
+Malaysia,2015,WPR,Western Pacific,MYS,Both sexes,22.8,0.02696629213483146
+Iraq,2015,EMR,Eastern Mediterranean,IRQ,Both sexes,22.9,0.09855769230769229
+Luxembourg,2015,EUR,Europe,LUX,Both sexes,22.9,0.8134920634920635
+Slovenia,2015,EUR,Europe,SVN,Both sexes,23.1,0.8188976377952757
+Japan,2015,WPR,Western Pacific,JPN,Both sexes,23.4,0.3109243697478991
+Sri Lanka,2015,SEAR,South-East Asia,LKA,Both sexes,23.5,0.07551487414187642
+Italy,2015,EUR,Europe,ITA,Both sexes,23.8,0.7060931899641577
+Republic of Korea,2015,WPR,Western Pacific,KOR,Both sexes,23.8,0.14663461538461536
+Uruguay,2015,AMR,Americas,URY,Both sexes,24.0,0.7391304347826086
+Thailand,2015,SEAR,South-East Asia,THA,Both sexes,24.1,0.07589285714285715
+Argentina,2015,AMR,Americas,ARG,Both sexes,24.6,0.5718849840255591
+Botswana,2015,AFR,Africa,BWA,Both sexes,24.6,0.31989247311827956
+Netherlands,2015,EUR,Europe,NLD,Both sexes,24.7,0.8296296296296296
+Cambodia,2015,WPR,Western Pacific,KHM,Both sexes,24.8,0.18138424821002386
+Republic of Moldova,2015,EUR,Europe,MDA,Both sexes,25.0,0.1334841628959276
+Palau,2015,WPR,Western Pacific,PLW,Both sexes,25.1,0.3175853018372703
+Vanuatu,2015,WPR,Western Pacific,VUT,Both sexes,25.1,0.07494646680942184
+China,2015,WPR,Western Pacific,CHN,Both sexes,25.3,0.04106776180698152
+Ireland,2015,EUR,Europe,IRL,Both sexes,25.3,0.8498168498168498
+Bahrain,2015,EMR,Eastern Mediterranean,BHR,Both sexes,25.4,0.21770334928229665
+Belgium,2015,EUR,Europe,BEL,Both sexes,25.7,0.8387096774193549
+Kazakhstan,2015,EUR,Europe,KAZ,Both sexes,25.7,0.1606334841628959
+Switzerland,2015,EUR,Europe,CHE,Both sexes,25.7,0.7909407665505226
+Philippines,2015,WPR,Western Pacific,PHL,Both sexes,25.8,0.17808219178082194
+United States of America,2015,AMR,Americas,USA,Both sexes,26.0,0.6332288401253918
+Israel,2015,EUR,Europe,ISR,Both sexes,26.2,0.4677871148459383
+Malta,2015,EUR,Europe,MLT,Both sexes,26.4,0.7692307692307693
+Portugal,2015,EUR,Europe,PRT,Both sexes,27.3,0.6220238095238094
+Ukraine,2015,EUR,Europe,UKR,Both sexes,27.3,0.24429223744292236
+Fiji,2015,WPR,Western Pacific,FJI,Both sexes,27.4,0.26497695852534564
+Romania,2015,EUR,Europe,ROU,Both sexes,27.5,0.4705882352941177
+Armenia,2015,EUR,Europe,ARM,Both sexes,27.9,0.03142329020332717
+Tunisia,2015,EMR,Eastern Mediterranean,TUN,Both sexes,27.9,0.06095238095238095
+Belarus,2015,EUR,Europe,BLR,Both sexes,28.0,0.23620309050772628
+Lesotho,2015,AFR,Africa,LSO,Both sexes,28.0,0.10433070866141733
+Mauritius,2015,AFR,Africa,MUS,Both sexes,28.0,0.12701612903225806
+Poland,2015,EUR,Europe,POL,Both sexes,28.1,0.7134146341463414
+Kyrgyzstan,2015,EUR,Europe,KGZ,Both sexes,28.4,0.06766917293233082
+Lithuania,2015,EUR,Europe,LTU,Both sexes,28.5,0.5092838196286471
+Cook Islands,2015,WPR,Western Pacific,COK,Both sexes,28.8,0.7091988130563798
+Germany,2015,EUR,Europe,DEU,Both sexes,28.9,0.8557692307692307
+Mongolia,2015,WPR,Western Pacific,MNG,Both sexes,29.0,0.1350293542074364
+Russian Federation,2015,EUR,Europe,RUS,Both sexes,29.0,0.351981351981352
+Spain,2015,EUR,Europe,ESP,Both sexes,29.3,0.8690095846645367
+Cuba,2015,AMR,Americas,CUB,Both sexes,29.4,0.3900709219858156
+India,2015,SEAR,South-East Asia,IND,Both sexes,29.6,0.3251121076233184
+Albania,2015,EUR,Europe,ALB,Both sexes,29.9,0.1614785992217899
+Turkey,2015,EUR,Europe,TUR,Both sexes,30.1,0.3847926267281106
+Georgia,2015,EUR,Europe,GEO,Both sexes,30.4,0.09549549549549549
+Samoa,2015,WPR,Western Pacific,WSM,Both sexes,30.5,0.41627906976744183
+Tonga,2015,WPR,Western Pacific,TON,Both sexes,30.6,0.2540983606557377
+Madagascar,2015,AFR,Africa,MDG,Both sexes,30.7,0.26859504132231404
+Austria,2015,EUR,Europe,AUT,Both sexes,31.5,0.894578313253012
+Hungary,2015,EUR,Europe,HUN,Both sexes,31.9,0.7575757575757577
+Slovakia,2015,EUR,Europe,SVK,Both sexes,32.0,0.635204081632653
+Sweden,2015,EUR,Europe,SWE,Both sexes,32.0,1.057877813504823
+Czechia,2015,EUR,Europe,CZE,Both sexes,32.1,0.760989010989011
+Estonia,2015,EUR,Europe,EST,Both sexes,32.1,0.6186868686868686
+South Africa,2015,AFR,Africa,ZAF,Both sexes,32.2,0.37901498929336186
+Andorra,2015,EUR,Europe,AND,Both sexes,34.2,0.7628865979381444
+France,2015,EUR,Europe,FRA,Both sexes,34.5,0.8983516483516485
+Nepal,2015,SEAR,South-East Asia,NPL,Both sexes,35.7,0.36781609195402293
+Croatia,2015,EUR,Europe,HRV,Both sexes,36.3,0.8759689922480619
+Latvia,2015,EUR,Europe,LVA,Both sexes,37.3,0.47722772277227726
+Cyprus,2015,EUR,Europe,CYP,Both sexes,37.5,0.44145873320537427
+Indonesia,2015,SEAR,South-East Asia,IDN,Both sexes,38.2,0.09142857142857143
+Solomon Islands,2015,WPR,Western Pacific,SLB,Both sexes,38.4,0.3683274021352313
+Bosnia and Herzegovina,2015,EUR,Europe,BIH,Both sexes,39.6,0.6479166666666667
+Ghana,2015,AFR,Africa,GHA,Both sexes,4.0,0.06578947368421052
+Ethiopia,2015,AFR,Africa,ETH,Both sexes,4.9,0.11363636363636363
+Bulgaria,2015,EUR,Europe,BGR,Both sexes,40.5,0.7880794701986756
+Greece,2015,EUR,Europe,GRC,Both sexes,40.6,0.721868365180467
+Bangladesh,2015,SEAR,South-East Asia,BGD,Both sexes,40.7,0.3295269168026101
+Timor-Leste,2015,SEAR,South-East Asia,TLS,Both sexes,40.8,0.1638176638176638
+Lao People's Democratic Republic,2015,WPR,Western Pacific,LAO,Both sexes,40.9,0.2821316614420063
+Serbia,2015,EUR,Europe,SRB,Both sexes,41.3,0.985576923076923
+Lebanon,2015,EMR,Eastern Mediterranean,LBN,Both sexes,42.6,0.7281947261663286
+Chile,2015,AMR,Americas,CHL,Both sexes,45.9,0.8303393213572854
+Myanmar,2015,SEAR,South-East Asia,MMR,Both sexes,47.8,0.3259361997226075
+Nigeria,2015,AFR,Africa,NGA,Both sexes,5.1,0.06315789473684211
+Sao Tome and Principe,2015,AFR,Africa,STP,Both sexes,5.5,0.1702127659574468
+Tuvalu,2015,WPR,Western Pacific,TUV,Both sexes,50.8,0.46820809248554907
+Kiribati,2015,WPR,Western Pacific,KIR,Both sexes,54.2,0.5383522727272727
+Nauru,2015,WPR,Western Pacific,NRU,Both sexes,54.7,1.0315398886827458
+Eritrea,2015,AFR,Africa,ERI,Both sexes,7.9,0.025806451612903226
+Panama,2015,AMR,Americas,PAN,Both sexes,7.9,0.2421875
+Togo,2015,AFR,Africa,TGO,Both sexes,8.1,0.14084507042253522
+Benin,2015,AFR,Africa,BEN,Both sexes,8.3,0.1619718309859155
+Niger,2015,AFR,Africa,NER,Both sexes,8.4,0.06289308176100629
+Haiti,2015,AMR,Americas,HTI,Both sexes,8.8,0.2589928057553957
+Barbados,2015,AMR,Americas,BRB,Both sexes,8.9,0.15584415584415584
+Colombia,2015,AMR,Americas,COL,Both sexes,8.9,0.32592592592592595
+Liberia,2015,AFR,Africa,LBR,Both sexes,9.1,0.1375
+Cameroon,2015,AFR,Africa,CMR,Both sexes,9.4,0.07428571428571429
+Oman,2015,EMR,Eastern Mediterranean,OMN,Both sexes,9.6,0.04347826086956522
+Senegal,2015,AFR,Africa,SEN,Both sexes,9.8,0.04812834224598931
+Senegal,2014,AFR,Africa,SEN,Both sexes,10.0,0.046875
+Dominican Republic,2014,AMR,Americas,DOM,Both sexes,10.8,0.6821705426356589
+Eswatini,2014,AFR,Africa,SWZ,Both sexes,10.9,0.14210526315789473
+Bahamas,2014,AMR,Americas,BHS,Both sexes,11.0,0.1891891891891892
+Costa Rica,2014,AMR,Americas,CRI,Both sexes,11.2,0.3413173652694611
+Uganda,2014,AFR,Africa,UGA,Both sexes,12.0,0.2765957446808511
+Mali,2014,AFR,Africa,MLI,Both sexes,12.1,0.08482142857142858
+Chad,2014,AFR,Africa,TCD,Both sexes,12.3,0.13425925925925924
+Jamaica,2014,AMR,Americas,JAM,Both sexes,12.4,0.25380710659898476
+Peru,2014,AMR,Americas,PER,Both sexes,12.6,0.23529411764705882
+Kenya,2014,AFR,Africa,KEN,Both sexes,13.0,0.13973799126637557
+Uzbekistan,2014,EUR,Europe,UZB,Both sexes,13.0,0.052631578947368425
+El Salvador,2014,AMR,Americas,SLV,Both sexes,13.8,0.11740890688259109
+Burundi,2014,AFR,Africa,BDI,Both sexes,14.0,0.36585365853658536
+Côte d’Ivoire,2014,AFR,Africa,CIV,Both sexes,14.2,0.0801526717557252
+Qatar,2014,EMR,Eastern Mediterranean,QAT,Both sexes,14.3,0.05555555555555555
+Guyana,2014,AMR,Americas,GUY,Both sexes,14.4,0.10305343511450382
+Rwanda,2014,AFR,Africa,RWA,Both sexes,14.5,0.3615023474178404
+Congo,2014,AFR,Africa,COG,Both sexes,14.7,0.08487084870848707
+Zimbabwe,2014,AFR,Africa,ZWE,Both sexes,14.7,0.057347670250896064
+Malawi,2014,AFR,Africa,MWI,Both sexes,14.9,0.27467811158798283
+United Republic of Tanzania,2014,AFR,Africa,TZA,Both sexes,15.0,0.14068441064638784
+Iran (Islamic Republic of),2014,EMR,Eastern Mediterranean,IRN,Both sexes,15.3,0.15037593984962405
+Paraguay,2014,AMR,Americas,PRY,Both sexes,15.4,0.2479674796747967
+Gambia,2014,AFR,Africa,GMB,Both sexes,15.7,0.06440677966101695
+Mexico,2014,AMR,Americas,MEX,Both sexes,15.7,0.31512605042016806
+Zambia,2014,AFR,Africa,ZMB,Both sexes,15.7,0.1849056603773585
+Brunei Darussalam,2014,WPR,Western Pacific,BRN,Both sexes,15.8,0.10069444444444443
+Iceland,2014,EUR,Europe,ISL,Both sexes,16.4,0.9580838323353293
+Morocco,2014,EMR,Eastern Mediterranean,MAR,Both sexes,16.4,0.031545741324921134
+Singapore,2014,WPR,Western Pacific,SGP,Both sexes,16.5,0.19064748201438847
+Mozambique,2014,AFR,Africa,MOZ,Both sexes,16.6,0.24344569288389514
+Saudi Arabia,2014,EMR,Eastern Mediterranean,SAU,Both sexes,16.7,0.07766990291262137
+New Zealand,2014,WPR,Western Pacific,NZL,Both sexes,17.3,0.8702702702702704
+Burkina Faso,2014,AFR,Africa,BFA,Both sexes,18.0,0.3584905660377358
+Australia,2014,WPR,Western Pacific,AUS,Both sexes,18.2,0.7536231884057971
+Namibia,2014,AFR,Africa,NAM,Both sexes,18.9,0.3451957295373665
+United Arab Emirates,2014,EMR,Eastern Mediterranean,ARE,Both sexes,18.9,0.024390243902439025
+Brazil,2014,AMR,Americas,BRA,Both sexes,19.2,0.5443548387096774
+Democratic People's Republic of Korea,2014,SEAR,South-East Asia,PRK,Both sexes,19.2,0.0
+Algeria,2014,AFR,Africa,DZA,Both sexes,19.4,0.04289544235924934
+Canada,2014,AMR,Americas,CAN,Both sexes,20.7,0.5741444866920152
+Azerbaijan,2014,EUR,Europe,AZE,Both sexes,21.1,0.004761904761904762
+Egypt,2014,EMR,Eastern Mediterranean,EGY,Both sexes,21.3,0.011904761904761904
+Finland,2014,EUR,Europe,FIN,Both sexes,21.3,0.8247863247863249
+Denmark,2014,EUR,Europe,DNK,Both sexes,21.6,0.9681818181818183
+Seychelles,2014,AFR,Africa,SYC,Both sexes,21.9,0.1994535519125683
+United Kingdom of Great Britain and Northern Ireland,2014,EUR,Europe,GBR,Both sexes,22.0,0.8487394957983193
+Norway,2014,EUR,Europe,NOR,Both sexes,22.2,0.9429824561403508
+Sierra Leone,2014,AFR,Africa,SLE,Both sexes,22.5,0.3119533527696793
+Comoros,2014,AFR,Africa,COM,Both sexes,22.6,0.39938080495356043
+Yemen,2014,EMR,Eastern Mediterranean,YEM,Both sexes,22.6,0.30724637681159417
+Kuwait,2014,EMR,Eastern Mediterranean,KWT,Both sexes,22.8,0.09330143540669857
+Iraq,2014,EMR,Eastern Mediterranean,IRQ,Both sexes,23.1,0.1026252983293556
+Malaysia,2014,WPR,Western Pacific,MYS,Both sexes,23.1,0.0289532293986637
+Pakistan,2014,EMR,Eastern Mediterranean,PAK,Both sexes,23.2,0.22427440633245382
+Luxembourg,2014,EUR,Europe,LUX,Both sexes,23.3,0.8093385214007782
+Slovenia,2014,EUR,Europe,SVN,Both sexes,23.3,0.8235294117647058
+Sri Lanka,2014,SEAR,South-East Asia,LKA,Both sexes,23.6,0.07990867579908677
+Japan,2014,WPR,Western Pacific,JPN,Both sexes,23.9,0.3095890410958904
+Italy,2014,EUR,Europe,ITA,Both sexes,24.0,0.6985815602836879
+Republic of Korea,2014,WPR,Western Pacific,KOR,Both sexes,24.4,0.14285714285714285
+Thailand,2014,SEAR,South-East Asia,THA,Both sexes,24.5,0.07912087912087912
+Uruguay,2014,AMR,Americas,URY,Both sexes,24.7,0.7333333333333333
+Botswana,2014,AFR,Africa,BWA,Both sexes,24.9,0.3351206434316354
+Republic of Moldova,2014,EUR,Europe,MDA,Both sexes,25.0,0.13122171945701355
+Netherlands,2014,EUR,Europe,NLD,Both sexes,25.1,0.8284671532846716
+Bahrain,2014,EMR,Eastern Mediterranean,BHR,Both sexes,25.5,0.2195704057279236
+China,2014,WPR,Western Pacific,CHN,Both sexes,25.5,0.04081632653061224
+Argentina,2014,AMR,Americas,ARG,Both sexes,25.6,0.5851393188854489
+Vanuatu,2014,WPR,Western Pacific,VUT,Both sexes,25.6,0.07578947368421053
+Palau,2014,WPR,Western Pacific,PLW,Both sexes,25.7,0.3213367609254499
+Cambodia,2014,WPR,Western Pacific,KHM,Both sexes,25.8,0.1889400921658986
+Belgium,2014,EUR,Europe,BEL,Both sexes,25.9,0.8303886925795053
+Ireland,2014,EUR,Europe,IRL,Both sexes,25.9,0.8633093525179856
+Switzerland,2014,EUR,Europe,CHE,Both sexes,25.9,0.7862068965517242
+Kazakhstan,2014,EUR,Europe,KAZ,Both sexes,26.2,0.16444444444444445
+Philippines,2014,WPR,Western Pacific,PHL,Both sexes,26.2,0.18284424379232506
+United States of America,2014,AMR,Americas,USA,Both sexes,26.4,0.6377708978328175
+Israel,2014,EUR,Europe,ISR,Both sexes,26.6,0.4736842105263158
+Malta,2014,EUR,Europe,MLT,Both sexes,26.8,0.7598684210526316
+Portugal,2014,EUR,Europe,PRT,Both sexes,27.1,0.6101190476190476
+Fiji,2014,WPR,Western Pacific,FJI,Both sexes,27.7,0.2677345537757437
+Lesotho,2014,AFR,Africa,LSO,Both sexes,27.7,0.11044176706827309
+Ukraine,2014,EUR,Europe,UKR,Both sexes,28.0,0.24390243902439024
+Mauritius,2014,AFR,Africa,MUS,Both sexes,28.2,0.13226452905811623
+Armenia,2014,EUR,Europe,ARM,Both sexes,28.3,0.03102189781021898
+Romania,2014,EUR,Europe,ROU,Both sexes,28.3,0.4790575916230366
+Kyrgyzstan,2014,EUR,Europe,KGZ,Both sexes,28.6,0.0691588785046729
+Poland,2014,EUR,Europe,POL,Both sexes,28.6,0.7228915662650601
+Tunisia,2014,EMR,Eastern Mediterranean,TUN,Both sexes,28.6,0.06307977736549165
+Belarus,2014,EUR,Europe,BLR,Both sexes,28.7,0.23225806451612904
+Lithuania,2014,EUR,Europe,LTU,Both sexes,29.0,0.5
+Germany,2014,EUR,Europe,DEU,Both sexes,29.1,0.8507936507936508
+Russian Federation,2014,EUR,Europe,RUS,Both sexes,29.3,0.34324942791762014
+Cook Islands,2014,WPR,Western Pacific,COK,Both sexes,29.5,0.7172011661807581
+Mongolia,2014,WPR,Western Pacific,MNG,Both sexes,29.6,0.13653846153846153
+Spain,2014,EUR,Europe,ESP,Both sexes,29.6,0.85
+Albania,2014,EUR,Europe,ALB,Both sexes,30.1,0.16441005802707928
+Cuba,2014,AMR,Americas,CUB,Both sexes,30.4,0.3977011494252874
+Turkey,2014,EUR,Europe,TUR,Both sexes,30.4,0.3755656108597285
+Georgia,2014,EUR,Europe,GEO,Both sexes,30.6,0.0966010733452594
+India,2014,SEAR,South-East Asia,IND,Both sexes,30.6,0.33916849015317285
+Tonga,2014,WPR,Western Pacific,TON,Both sexes,30.7,0.2581967213114754
+Samoa,2014,WPR,Western Pacific,WSM,Both sexes,31.0,0.4145785876993166
+Madagascar,2014,AFR,Africa,MDG,Both sexes,31.2,0.28131416837782336
+Slovakia,2014,EUR,Europe,SVK,Both sexes,32.1,0.6227848101265823
+Czechia,2014,EUR,Europe,CZE,Both sexes,32.2,0.7520435967302452
+Estonia,2014,EUR,Europe,EST,Both sexes,32.4,0.6159600997506234
+Hungary,2014,EUR,Europe,HUN,Both sexes,32.4,0.7560975609756098
+Austria,2014,EUR,Europe,AUT,Both sexes,32.5,0.8866279069767442
+South Africa,2014,AFR,Africa,ZAF,Both sexes,32.5,0.3897216274089935
+Sweden,2014,EUR,Europe,SWE,Both sexes,32.9,1.0660377358490565
+Andorra,2014,EUR,Europe,AND,Both sexes,34.1,0.7622739018087855
+France,2014,EUR,Europe,FRA,Both sexes,34.6,0.885558583106267
+Croatia,2014,EUR,Europe,HRV,Both sexes,36.1,0.853470437017995
+Nepal,2014,SEAR,South-East Asia,NPL,Both sexes,37.0,0.38764044943820225
+Latvia,2014,EUR,Europe,LVA,Both sexes,37.5,0.4725490196078432
+Cyprus,2014,EUR,Europe,CYP,Both sexes,37.6,0.43238095238095237
+Indonesia,2014,SEAR,South-East Asia,IDN,Both sexes,38.3,0.09756097560975609
+Solomon Islands,2014,WPR,Western Pacific,SLB,Both sexes,38.6,0.376114081996435
+Bosnia and Herzegovina,2014,EUR,Europe,BIH,Both sexes,39.7,0.6438923395445135
+Ghana,2014,AFR,Africa,GHA,Both sexes,4.1,0.06410256410256411
+Bangladesh,2014,SEAR,South-East Asia,BGD,Both sexes,41.1,0.3425774877650897
+Bulgaria,2014,EUR,Europe,BGR,Both sexes,41.1,0.7792207792207791
+Greece,2014,EUR,Europe,GRC,Both sexes,41.2,0.7217573221757323
+Serbia,2014,EUR,Europe,SRB,Both sexes,41.7,0.9669811320754718
+Timor-Leste,2014,SEAR,South-East Asia,TLS,Both sexes,41.8,0.16434540389972147
+Lao People's Democratic Republic,2014,WPR,Western Pacific,LAO,Both sexes,42.2,0.28810975609756095
+Lebanon,2014,EMR,Eastern Mediterranean,LBN,Both sexes,42.7,0.7322515212981745
+Chile,2014,AMR,Americas,CHL,Both sexes,46.2,0.8316831683168316
+Myanmar,2014,SEAR,South-East Asia,MMR,Both sexes,48.8,0.3337893296853625
+Ethiopia,2014,AFR,Africa,ETH,Both sexes,5.0,0.1111111111111111
+Nigeria,2014,AFR,Africa,NGA,Both sexes,5.2,0.07216494845360825
+Sao Tome and Principe,2014,AFR,Africa,STP,Both sexes,5.6,0.18085106382978722
+Tuvalu,2014,WPR,Western Pacific,TUV,Both sexes,51.4,0.46790299572039945
+Kiribati,2014,WPR,Western Pacific,KIR,Both sexes,55.2,0.550561797752809
+Nauru,2014,WPR,Western Pacific,NRU,Both sexes,55.7,1.0402930402930401
+Eritrea,2014,AFR,Africa,ERI,Both sexes,8.2,0.025
+Panama,2014,AMR,Americas,PAN,Both sexes,8.3,0.23880597014925373
+Togo,2014,AFR,Africa,TGO,Both sexes,8.3,0.14482758620689656
+Niger,2014,AFR,Africa,NER,Both sexes,8.4,0.06369426751592357
+Benin,2014,AFR,Africa,BEN,Both sexes,8.7,0.16891891891891891
+Barbados,2014,AMR,Americas,BRB,Both sexes,8.9,0.15584415584415584
+Haiti,2014,AMR,Americas,HTI,Both sexes,8.9,0.2695035460992908
+Colombia,2014,AMR,Americas,COL,Both sexes,9.3,0.32857142857142857
+Liberia,2014,AFR,Africa,LBR,Both sexes,9.3,0.1419753086419753
+Cameroon,2014,AFR,Africa,CMR,Both sexes,9.4,0.08
+Oman,2014,EMR,Eastern Mediterranean,OMN,Both sexes,9.6,0.04371584699453552
+Senegal,2013,AFR,Africa,SEN,Both sexes,10.3,0.0510204081632653
+Eswatini,2013,AFR,Africa,SWZ,Both sexes,10.9,0.15263157894736842
+Bahamas,2013,AMR,Americas,BHS,Both sexes,11.0,0.1956521739130435
+Dominican Republic,2013,AMR,Americas,DOM,Both sexes,11.3,0.6865671641791045
+Costa Rica,2013,AMR,Americas,CRI,Both sexes,11.6,0.3508771929824561
+Mali,2013,AFR,Africa,MLI,Both sexes,12.2,0.08968609865470852
+Chad,2013,AFR,Africa,TCD,Both sexes,12.5,0.1409090909090909
+Uganda,2013,AFR,Africa,UGA,Both sexes,12.6,0.28426395939086296
+Jamaica,2013,AMR,Americas,JAM,Both sexes,12.7,0.2561576354679803
+Uzbekistan,2013,EUR,Europe,UZB,Both sexes,13.2,0.052000000000000005
+Kenya,2013,AFR,Africa,KEN,Both sexes,13.3,0.14163090128755362
+Peru,2013,AMR,Americas,PER,Both sexes,13.5,0.23853211009174313
+El Salvador,2013,AMR,Americas,SLV,Both sexes,14.2,0.11857707509881422
+Burundi,2013,AFR,Africa,BDI,Both sexes,14.3,0.37320574162679426
+Qatar,2013,EMR,Eastern Mediterranean,QAT,Both sexes,14.3,0.05925925925925926
+Congo,2013,AFR,Africa,COG,Both sexes,14.4,0.09090909090909091
+Côte d’Ivoire,2013,AFR,Africa,CIV,Both sexes,14.4,0.08270676691729323
+Rwanda,2013,AFR,Africa,RWA,Both sexes,14.9,0.36697247706422015
+Zimbabwe,2013,AFR,Africa,ZWE,Both sexes,14.9,0.05653710247349823
+Guyana,2013,AMR,Americas,GUY,Both sexes,15.0,0.10294117647058823
+Malawi,2013,AFR,Africa,MWI,Both sexes,15.5,0.27983539094650206
+United Republic of Tanzania,2013,AFR,Africa,TZA,Both sexes,15.5,0.14022140221402213
+Iran (Islamic Republic of),2013,EMR,Eastern Mediterranean,IRN,Both sexes,15.7,0.15441176470588236
+Brunei Darussalam,2013,WPR,Western Pacific,BRN,Both sexes,15.9,0.10452961672473868
+Zambia,2013,AFR,Africa,ZMB,Both sexes,15.9,0.19101123595505617
+Gambia,2013,AFR,Africa,GMB,Both sexes,16.1,0.06644518272425248
+Mexico,2013,AMR,Americas,MEX,Both sexes,16.1,0.3183673469387755
+Paraguay,2013,AMR,Americas,PRY,Both sexes,16.1,0.25390625
+Singapore,2013,WPR,Western Pacific,SGP,Both sexes,16.4,0.19272727272727272
+Saudi Arabia,2013,EMR,Eastern Mediterranean,SAU,Both sexes,16.7,0.08116883116883117
+Morocco,2013,EMR,Eastern Mediterranean,MAR,Both sexes,16.8,0.03384615384615385
+Iceland,2013,EUR,Europe,ISL,Both sexes,17.1,0.9431818181818182
+Mozambique,2013,AFR,Africa,MOZ,Both sexes,17.2,0.24637681159420288
+New Zealand,2013,WPR,Western Pacific,NZL,Both sexes,17.9,0.8795811518324607
+Australia,2013,WPR,Western Pacific,AUS,Both sexes,18.6,0.759433962264151
+Burkina Faso,2013,AFR,Africa,BFA,Both sexes,18.6,0.38289962825278817
+United Arab Emirates,2013,EMR,Eastern Mediterranean,ARE,Both sexes,19.0,0.024324324324324326
+Namibia,2013,AFR,Africa,NAM,Both sexes,19.2,0.37142857142857144
+Democratic People's Republic of Korea,2013,SEAR,South-East Asia,PRK,Both sexes,19.4,0.0
+Algeria,2013,AFR,Africa,DZA,Both sexes,19.5,0.04278074866310161
+Brazil,2013,AMR,Americas,BRA,Both sexes,19.9,0.5486381322957199
+Egypt,2013,EMR,Eastern Mediterranean,EGY,Both sexes,21.1,0.011961722488038277
+Azerbaijan,2013,EUR,Europe,AZE,Both sexes,21.5,0.00468384074941452
+Canada,2013,AMR,Americas,CAN,Both sexes,21.8,0.5818181818181818
+Finland,2013,EUR,Europe,FIN,Both sexes,21.9,0.8215767634854771
+Seychelles,2013,AFR,Africa,SYC,Both sexes,22.1,0.1978319783197832
+Denmark,2013,EUR,Europe,DNK,Both sexes,22.4,0.9478260869565218
+United Kingdom of Great Britain and Northern Ireland,2013,EUR,Europe,GBR,Both sexes,22.8,0.8577235772357724
+Kuwait,2013,EMR,Eastern Mediterranean,KWT,Both sexes,23.0,0.0976190476190476
+Yemen,2013,EMR,Eastern Mediterranean,YEM,Both sexes,23.0,0.31339031339031337
+Norway,2013,EUR,Europe,NOR,Both sexes,23.2,0.9375
+Sierra Leone,2013,AFR,Africa,SLE,Both sexes,23.3,0.32386363636363635
+Slovenia,2013,EUR,Europe,SVN,Both sexes,23.3,0.8235294117647058
+Comoros,2013,AFR,Africa,COM,Both sexes,23.4,0.4311926605504587
+Malaysia,2013,WPR,Western Pacific,MYS,Both sexes,23.4,0.030837004405286344
+Iraq,2013,EMR,Eastern Mediterranean,IRQ,Both sexes,23.5,0.10588235294117647
+Luxembourg,2013,EUR,Europe,LUX,Both sexes,23.7,0.8022813688212929
+Sri Lanka,2013,SEAR,South-East Asia,LKA,Both sexes,23.9,0.08390022675736962
+Italy,2013,EUR,Europe,ITA,Both sexes,24.2,0.686411149825784
+Pakistan,2013,EMR,Eastern Mediterranean,PAK,Both sexes,24.2,0.23469387755102036
+Japan,2013,WPR,Western Pacific,JPN,Both sexes,24.5,0.30666666666666664
+Republic of Korea,2013,WPR,Western Pacific,KOR,Both sexes,25.0,0.13863636363636364
+Republic of Moldova,2013,EUR,Europe,MDA,Both sexes,25.0,0.13122171945701355
+Thailand,2013,SEAR,South-East Asia,THA,Both sexes,25.0,0.08008658008658008
+Botswana,2013,AFR,Africa,BWA,Both sexes,25.2,0.3548387096774193
+Bahrain,2013,EMR,Eastern Mediterranean,BHR,Both sexes,25.5,0.22302158273381295
+Netherlands,2013,EUR,Europe,NLD,Both sexes,25.6,0.835125448028674
+Uruguay,2013,AMR,Americas,URY,Both sexes,25.6,0.7414965986394558
+China,2013,WPR,Western Pacific,CHN,Both sexes,25.9,0.04233870967741936
+Vanuatu,2013,WPR,Western Pacific,VUT,Both sexes,25.9,0.07676348547717843
+Switzerland,2013,EUR,Europe,CHE,Both sexes,26.1,0.7842465753424658
+Palau,2013,WPR,Western Pacific,PLW,Both sexes,26.2,0.32323232323232326
+Belgium,2013,EUR,Europe,BEL,Both sexes,26.3,0.8200692041522492
+Ireland,2013,EUR,Europe,IRL,Both sexes,26.4,0.8723404255319149
+Kazakhstan,2013,EUR,Europe,KAZ,Both sexes,26.5,0.16483516483516483
+Argentina,2013,AMR,Americas,ARG,Both sexes,26.6,0.5880597014925373
+United States of America,2013,AMR,Americas,USA,Both sexes,26.8,0.636085626911315
+Israel,2013,EUR,Europe,ISR,Both sexes,26.9,0.48342541436464087
+Philippines,2013,WPR,Western Pacific,PHL,Both sexes,26.9,0.18281938325991193
+Portugal,2013,EUR,Europe,PRT,Both sexes,26.9,0.5946745562130178
+Cambodia,2013,WPR,Western Pacific,KHM,Both sexes,27.0,0.19247787610619466
+Lesotho,2013,AFR,Africa,LSO,Both sexes,27.2,0.11728395061728394
+Malta,2013,EUR,Europe,MLT,Both sexes,27.3,0.7524115755627009
+Fiji,2013,WPR,Western Pacific,FJI,Both sexes,28.1,0.27149321266968324
+Mauritius,2013,AFR,Africa,MUS,Both sexes,28.7,0.13861386138613863
+Ukraine,2013,EUR,Europe,UKR,Both sexes,28.7,0.24295010845986983
+Kyrgyzstan,2013,EUR,Europe,KGZ,Both sexes,28.8,0.07063197026022305
+Armenia,2013,EUR,Europe,ARM,Both sexes,28.9,0.03220035778175313
+Belarus,2013,EUR,Europe,BLR,Both sexes,29.1,0.22995780590717302
+Romania,2013,EUR,Europe,ROU,Both sexes,29.1,0.4872448979591837
+Tunisia,2013,EMR,Eastern Mediterranean,TUN,Both sexes,29.2,0.06375227686703097
+Poland,2013,EUR,Europe,POL,Both sexes,29.3,0.7264705882352941
+Lithuania,2013,EUR,Europe,LTU,Both sexes,29.4,0.4961832061068703
+Germany,2013,EUR,Europe,DEU,Both sexes,29.5,0.8495297805642634
+Russian Federation,2013,EUR,Europe,RUS,Both sexes,29.6,0.3355855855855856
+Mongolia,2013,WPR,Western Pacific,MNG,Both sexes,30.1,0.14015151515151517
+Spain,2013,EUR,Europe,ESP,Both sexes,30.1,0.8297872340425533
+Albania,2013,EUR,Europe,ALB,Both sexes,30.3,0.16538461538461538
+Cook Islands,2013,WPR,Western Pacific,COK,Both sexes,30.3,0.7293447293447294
+Georgia,2013,EUR,Europe,GEO,Both sexes,30.7,0.09642857142857143
+Tonga,2013,WPR,Western Pacific,TON,Both sexes,30.8,0.25971370143149286
+Turkey,2013,EUR,Europe,TUR,Both sexes,30.8,0.36585365853658536
+Cuba,2013,AMR,Americas,CUB,Both sexes,31.4,0.40898876404494383
+India,2013,SEAR,South-East Asia,IND,Both sexes,31.5,0.3490364025695931
+Samoa,2013,WPR,Western Pacific,WSM,Both sexes,31.6,0.41704035874439466
+Madagascar,2013,AFR,Africa,MDG,Both sexes,32.0,0.2961460446247465
+Slovakia,2013,EUR,Europe,SVK,Both sexes,32.0,0.6080402010050252
+Czechia,2013,EUR,Europe,CZE,Both sexes,32.4,0.7533875338753389
+South Africa,2013,AFR,Africa,ZAF,Both sexes,32.8,0.40384615384615385
+Estonia,2013,EUR,Europe,EST,Both sexes,32.9,0.6034063260340633
+Hungary,2013,EUR,Europe,HUN,Both sexes,32.9,0.7546666666666667
+Austria,2013,EUR,Europe,AUT,Both sexes,33.2,0.8863636363636362
+Sweden,2013,EUR,Europe,SWE,Both sexes,34.1,1.0699088145896658
+Andorra,2013,EUR,Europe,AND,Both sexes,34.3,0.7564102564102564
+France,2013,EUR,Europe,FRA,Both sexes,34.5,0.8904109589041096
+Croatia,2013,EUR,Europe,HRV,Both sexes,35.9,0.8457583547557841
+Latvia,2013,EUR,Europe,LVA,Both sexes,37.7,0.46783625730994155
+Cyprus,2013,EUR,Europe,CYP,Both sexes,38.0,0.42669172932330823
+Indonesia,2013,SEAR,South-East Asia,IDN,Both sexes,38.3,0.10533910533910534
+Nepal,2013,SEAR,South-East Asia,NPL,Both sexes,38.4,0.4065934065934066
+Solomon Islands,2013,WPR,Western Pacific,SLB,Both sexes,38.8,0.38078291814946613
+Ghana,2013,AFR,Africa,GHA,Both sexes,4.3,0.0625
+Bosnia and Herzegovina,2013,EUR,Europe,BIH,Both sexes,40.3,0.6415478615071283
+Bulgaria,2013,EUR,Europe,BGR,Both sexes,41.4,0.7751605995717344
+Bangladesh,2013,SEAR,South-East Asia,BGD,Both sexes,41.7,0.3538961038961039
+Greece,2013,EUR,Europe,GRC,Both sexes,41.8,0.7222222222222222
+Serbia,2013,EUR,Europe,SRB,Both sexes,41.9,0.9465116279069768
+Timor-Leste,2013,SEAR,South-East Asia,TLS,Both sexes,42.6,0.16552667578659372
+Lebanon,2013,EMR,Eastern Mediterranean,LBN,Both sexes,42.7,0.7413441955193483
+Lao People's Democratic Republic,2013,WPR,Western Pacific,LAO,Both sexes,43.2,0.2987987987987988
+Chile,2013,AMR,Americas,CHL,Both sexes,46.8,0.8333333333333334
+Myanmar,2013,SEAR,South-East Asia,MMR,Both sexes,49.6,0.34599728629579374
+Ethiopia,2013,AFR,Africa,ETH,Both sexes,5.1,0.11956521739130437
+Nigeria,2013,AFR,Africa,NGA,Both sexes,5.3,0.0707070707070707
+Sao Tome and Principe,2013,AFR,Africa,STP,Both sexes,5.6,0.19148936170212766
+Tuvalu,2013,WPR,Western Pacific,TUV,Both sexes,52.3,0.4649859943977591
+Kiribati,2013,WPR,Western Pacific,KIR,Both sexes,56.0,0.5563282336578581
+Nauru,2013,WPR,Western Pacific,NRU,Both sexes,56.5,1.0489130434782608
+Niger,2013,AFR,Africa,NER,Both sexes,8.2,0.07142857142857144
+Eritrea,2013,AFR,Africa,ERI,Both sexes,8.5,0.024242424242424242
+Togo,2013,AFR,Africa,TGO,Both sexes,8.5,0.14864864864864866
+Panama,2013,AMR,Americas,PAN,Both sexes,8.8,0.24113475177304963
+Barbados,2013,AMR,Americas,BRB,Both sexes,9.0,0.15384615384615385
+Benin,2013,AFR,Africa,BEN,Both sexes,9.1,0.16774193548387098
+Haiti,2013,AMR,Americas,HTI,Both sexes,9.1,0.2727272727272727
+Cameroon,2013,AFR,Africa,CMR,Both sexes,9.5,0.08571428571428572
+Liberia,2013,AFR,Africa,LBR,Both sexes,9.6,0.1506024096385542
+Oman,2013,EMR,Eastern Mediterranean,OMN,Both sexes,9.6,0.04371584699453552
+Colombia,2013,AMR,Americas,COL,Both sexes,9.7,0.33793103448275863
+Panama,2010,AMR,Americas,PAN,Both sexes,10.1,0.2378048780487805
+Benin,2010,AFR,Africa,BEN,Both sexes,10.4,0.18181818181818182
+Liberia,2010,AFR,Africa,LBR,Both sexes,10.4,0.17514124293785313
+Colombia,2010,AMR,Americas,COL,Both sexes,11.0,0.35802469135802467
+Bahamas,2010,AMR,Americas,BHS,Both sexes,11.1,0.20652173913043478
+Eswatini,2010,AFR,Africa,SWZ,Both sexes,11.1,0.1798941798941799
+Senegal,2010,AFR,Africa,SEN,Both sexes,11.2,0.05660377358490566
+Mali,2010,AFR,Africa,MLI,Both sexes,12.3,0.10267857142857142
+Dominican Republic,2010,AMR,Americas,DOM,Both sexes,12.6,0.7094594594594594
+Costa Rica,2010,AMR,Americas,CRI,Both sexes,12.8,0.3526315789473684
+Chad,2010,AFR,Africa,TCD,Both sexes,13.0,0.17117117117117117
+Congo,2010,AFR,Africa,COG,Both sexes,13.5,0.11157024793388431
+Uzbekistan,2010,EUR,Europe,UZB,Both sexes,13.8,0.04961832061068703
+Jamaica,2010,AMR,Americas,JAM,Both sexes,14.0,0.2669683257918552
+Kenya,2010,AFR,Africa,KEN,Both sexes,14.4,0.14342629482071712
+Qatar,2010,EMR,Eastern Mediterranean,QAT,Both sexes,14.5,0.06204379562043796
+Uganda,2010,AFR,Africa,UGA,Both sexes,14.8,0.2982456140350877
+El Salvador,2010,AMR,Americas,SLV,Both sexes,15.1,0.12639405204460966
+Burundi,2010,AFR,Africa,BDI,Both sexes,15.5,0.390134529147982
+Côte d’Ivoire,2010,AFR,Africa,CIV,Both sexes,15.6,0.09473684210526316
+Zimbabwe,2010,AFR,Africa,ZWE,Both sexes,15.6,0.06462585034013606
+Rwanda,2010,AFR,Africa,RWA,Both sexes,15.9,0.37229437229437223
+Brunei Darussalam,2010,WPR,Western Pacific,BRN,Both sexes,16.1,0.11418685121107267
+Singapore,2010,WPR,Western Pacific,SGP,Both sexes,16.5,0.19133574007220217
+Peru,2010,AMR,Americas,PER,Both sexes,16.6,0.24253731343283583
+Saudi Arabia,2010,EMR,Eastern Mediterranean,SAU,Both sexes,16.6,0.09539473684210527
+Zambia,2010,AFR,Africa,ZMB,Both sexes,16.7,0.20143884892086328
+Iran (Islamic Republic of),2010,EMR,Eastern Mediterranean,IRN,Both sexes,16.8,0.16608996539792387
+United Republic of Tanzania,2010,AFR,Africa,TZA,Both sexes,17.0,0.1447811447811448
+Gambia,2010,AFR,Africa,GMB,Both sexes,17.1,0.07523510971786834
+Guyana,2010,AMR,Americas,GUY,Both sexes,17.1,0.1032258064516129
+Malawi,2010,AFR,Africa,MWI,Both sexes,17.4,0.29850746268656714
+Mexico,2010,AMR,Americas,MEX,Both sexes,17.7,0.32584269662921345
+Morocco,2010,EMR,Eastern Mediterranean,MAR,Both sexes,18.0,0.03735632183908046
+Paraguay,2010,AMR,Americas,PRY,Both sexes,18.5,0.27147766323024053
+Mozambique,2010,AFR,Africa,MOZ,Both sexes,19.2,0.25901639344262295
+Iceland,2010,EUR,Europe,ISL,Both sexes,19.4,0.9253731343283582
+United Arab Emirates,2010,EMR,Eastern Mediterranean,ARE,Both sexes,19.4,0.026385224274406333
+Democratic People's Republic of Korea,2010,SEAR,South-East Asia,PRK,Both sexes,19.8,0.0
+Algeria,2010,AFR,Africa,DZA,Both sexes,20.0,0.046997389033942565
+New Zealand,2010,WPR,Western Pacific,NZL,Both sexes,20.1,0.8962264150943396
+Australia,2010,WPR,Western Pacific,AUS,Both sexes,20.4,0.7816593886462881
+Burkina Faso,2010,AFR,Africa,BFA,Both sexes,20.4,0.4519572953736654
+Namibia,2010,AFR,Africa,NAM,Both sexes,20.4,0.4571428571428572
+Egypt,2010,EMR,Eastern Mediterranean,EGY,Both sexes,21.2,0.014319809069212411
+Brazil,2010,AMR,Americas,BRA,Both sexes,22.3,0.5520833333333334
+Azerbaijan,2010,EUR,Europe,AZE,Both sexes,22.8,0.004415011037527595
+Seychelles,2010,AFR,Africa,SYC,Both sexes,22.9,0.19947506561679787
+Finland,2010,EUR,Europe,FIN,Both sexes,23.4,0.789272030651341
+Kuwait,2010,EMR,Eastern Mediterranean,KWT,Both sexes,23.6,0.1056338028169014
+Slovenia,2010,EUR,Europe,SVN,Both sexes,23.8,0.8339768339768341
+Iraq,2010,EMR,Eastern Mediterranean,IRQ,Both sexes,24.2,0.12064965197215777
+Malaysia,2010,WPR,Western Pacific,MYS,Both sexes,24.5,0.03601694915254237
+Yemen,2010,EMR,Eastern Mediterranean,YEM,Both sexes,24.5,0.3306233062330623
+Sri Lanka,2010,SEAR,South-East Asia,LKA,Both sexes,24.6,0.10290827740492169
+Canada,2010,AMR,Americas,CAN,Both sexes,24.7,0.598705501618123
+Italy,2010,EUR,Europe,ITA,Both sexes,24.7,0.6689189189189189
+Republic of Moldova,2010,EUR,Europe,MDA,Both sexes,24.8,0.12954545454545455
+Luxembourg,2010,EUR,Europe,LUX,Both sexes,24.9,0.7849462365591398
+Denmark,2010,EUR,Europe,DNK,Both sexes,25.3,0.912878787878788
+United Kingdom of Great Britain and Northern Ireland,2010,EUR,Europe,GBR,Both sexes,25.4,0.8851851851851852
+Sierra Leone,2010,AFR,Africa,SLE,Both sexes,25.7,0.35526315789473684
+Bahrain,2010,EMR,Eastern Mediterranean,BHR,Both sexes,26.0,0.23459715639810425
+Lesotho,2010,AFR,Africa,LSO,Both sexes,26.0,0.1456953642384106
+Botswana,2010,AFR,Africa,BWA,Both sexes,26.4,0.41554959785522794
+Japan,2010,WPR,Western Pacific,JPN,Both sexes,26.4,0.3004926108374384
+Portugal,2010,EUR,Europe,PRT,Both sexes,26.4,0.5483870967741935
+Thailand,2010,SEAR,South-East Asia,THA,Both sexes,26.5,0.08367346938775509
+China,2010,WPR,Western Pacific,CHN,Both sexes,26.6,0.045186640471512766
+Comoros,2010,AFR,Africa,COM,Both sexes,26.6,0.5258620689655173
+Switzerland,2010,EUR,Europe,CHE,Both sexes,26.6,0.7674418604651163
+Norway,2010,EUR,Europe,NOR,Both sexes,26.8,0.9456521739130435
+Republic of Korea,2010,WPR,Western Pacific,KOR,Both sexes,26.9,0.13291139240506328
+Belgium,2010,EUR,Europe,BEL,Both sexes,27.0,0.8
+Netherlands,2010,EUR,Europe,NLD,Both sexes,27.0,0.8401360544217688
+Pakistan,2010,EMR,Eastern Mediterranean,PAK,Both sexes,27.1,0.26573426573426573
+Vanuatu,2010,WPR,Western Pacific,VUT,Both sexes,27.2,0.07722772277227723
+Palau,2010,WPR,Western Pacific,PLW,Both sexes,27.7,0.3349397590361446
+Israel,2010,EUR,Europe,ISR,Both sexes,27.8,0.5081521739130435
+Kazakhstan,2010,EUR,Europe,KAZ,Both sexes,27.9,0.1694560669456067
+United States of America,2010,AMR,Americas,USA,Both sexes,27.9,0.6430678466076697
+Ireland,2010,EUR,Europe,IRL,Both sexes,28.2,0.9149659863945578
+Uruguay,2010,AMR,Americas,URY,Both sexes,28.3,0.7384615384615385
+Malta,2010,EUR,Europe,MLT,Both sexes,28.6,0.7125748502994013
+Philippines,2010,WPR,Western Pacific,PHL,Both sexes,28.6,0.19456066945606698
+Fiji,2010,WPR,Western Pacific,FJI,Both sexes,29.0,0.27533039647577096
+Kyrgyzstan,2010,EUR,Europe,KGZ,Both sexes,29.4,0.07285974499089254
+Armenia,2010,EUR,Europe,ARM,Both sexes,30.0,0.03264604810996563
+Argentina,2010,AMR,Americas,ARG,Both sexes,30.1,0.6155913978494623
+Mauritius,2010,AFR,Africa,MUS,Both sexes,30.1,0.1532567049808429
+Germany,2010,EUR,Europe,DEU,Both sexes,30.3,0.8308157099697885
+Cambodia,2010,WPR,Western Pacific,KHM,Both sexes,30.6,0.21188118811881188
+Russian Federation,2010,EUR,Europe,RUS,Both sexes,30.6,0.3055555555555556
+Ukraine,2010,EUR,Europe,UKR,Both sexes,30.7,0.24543610547667344
+Lithuania,2010,EUR,Europe,LTU,Both sexes,30.8,0.4772182254196642
+Belarus,2010,EUR,Europe,BLR,Both sexes,31.0,0.22090729783037472
+Albania,2010,EUR,Europe,ALB,Both sexes,31.1,0.17105263157894735
+Tonga,2010,WPR,Western Pacific,TON,Both sexes,31.3,0.26464646464646463
+Tunisia,2010,EMR,Eastern Mediterranean,TUN,Both sexes,31.3,0.06837606837606838
+Georgia,2010,EUR,Europe,GEO,Both sexes,31.6,0.09739130434782609
+Poland,2010,EUR,Europe,POL,Both sexes,31.6,0.7315068493150685
+Romania,2010,EUR,Europe,ROU,Both sexes,31.6,0.5119617224880383
+Spain,2010,EUR,Europe,ESP,Both sexes,31.6,0.7853107344632769
+Turkey,2010,EUR,Europe,TUR,Both sexes,31.7,0.3489361702127659
+Mongolia,2010,WPR,Western Pacific,MNG,Both sexes,31.9,0.14954954954954955
+Slovakia,2010,EUR,Europe,SVK,Both sexes,31.9,0.5753086419753086
+Cook Islands,2010,WPR,Western Pacific,COK,Both sexes,32.7,0.7420212765957446
+Czechia,2010,EUR,Europe,CZE,Both sexes,32.9,0.7380952380952381
+Samoa,2010,WPR,Western Pacific,WSM,Both sexes,33.5,0.41561181434599154
+South Africa,2010,AFR,Africa,ZAF,Both sexes,33.9,0.4456289978678038
+Madagascar,2010,AFR,Africa,MDG,Both sexes,34.0,0.3438735177865612
+Hungary,2010,EUR,Europe,HUN,Both sexes,34.2,0.7564102564102564
+Cuba,2010,AMR,Americas,CUB,Both sexes,34.4,0.440251572327044
+France,2010,EUR,Europe,FRA,Both sexes,34.5,0.8648648648648649
+Andorra,2010,EUR,Europe,AND,Both sexes,34.7,0.7393483709273183
+Estonia,2010,EUR,Europe,EST,Both sexes,34.7,0.5736961451247166
+India,2010,SEAR,South-East Asia,IND,Both sexes,34.8,0.3955823293172691
+Croatia,2010,EUR,Europe,HRV,Both sexes,35.6,0.797979797979798
+Austria,2010,EUR,Europe,AUT,Both sexes,36.1,0.8634020618556701
+Sweden,2010,EUR,Europe,SWE,Both sexes,37.6,1.0861111111111112
+Latvia,2010,EUR,Europe,LVA,Both sexes,38.4,0.4600760456273764
+Cyprus,2010,EUR,Europe,CYP,Both sexes,38.8,0.40579710144927533
+Indonesia,2010,SEAR,South-East Asia,IDN,Both sexes,38.8,0.12954876273653565
+Solomon Islands,2010,WPR,Western Pacific,SLB,Both sexes,39.5,0.3950617283950617
+Ghana,2010,AFR,Africa,GHA,Both sexes,4.7,0.06896551724137931
+Bosnia and Herzegovina,2010,EUR,Europe,BIH,Both sexes,41.4,0.6331360946745562
+Serbia,2010,EUR,Europe,SRB,Both sexes,42.7,0.8957871396895787
+Lebanon,2010,EMR,Eastern Mediterranean,LBN,Both sexes,42.9,0.7403651115618661
+Bulgaria,2010,EUR,Europe,BGR,Both sexes,43.1,0.7449392712550607
+Greece,2010,EUR,Europe,GRC,Both sexes,43.4,0.7207920792079208
+Nepal,2010,SEAR,South-East Asia,NPL,Both sexes,43.4,0.47368421052631576
+Bangladesh,2010,SEAR,South-East Asia,BGD,Both sexes,43.5,0.3958333333333333
+Timor-Leste,2010,SEAR,South-East Asia,TLS,Both sexes,45.6,0.16794871794871793
+Lao People's Democratic Republic,2010,WPR,Western Pacific,LAO,Both sexes,47.0,0.32535211267605635
+Chile,2010,AMR,Americas,CHL,Both sexes,48.3,0.8400000000000001
+Ethiopia,2010,AFR,Africa,ETH,Both sexes,5.5,0.11224489795918367
+Nigeria,2010,AFR,Africa,NGA,Both sexes,5.7,0.08571428571428572
+Sao Tome and Principe,2010,AFR,Africa,STP,Both sexes,5.7,0.22580645161290322
+Myanmar,2010,SEAR,South-East Asia,MMR,Both sexes,52.5,0.3810775295663601
+Tuvalu,2010,WPR,Western Pacific,TUV,Both sexes,54.4,0.4623655913978494
+Kiribati,2010,WPR,Western Pacific,KIR,Both sexes,58.1,0.5766621438263229
+Nauru,2010,WPR,Western Pacific,NRU,Both sexes,59.5,1.071304347826087
+Niger,2010,AFR,Africa,NER,Both sexes,8.1,0.08666666666666667
+Eritrea,2010,AFR,Africa,ERI,Both sexes,9.2,0.027777777777777776
+Togo,2010,AFR,Africa,TGO,Both sexes,9.2,0.1730769230769231
+Barbados,2010,AMR,Americas,BRB,Both sexes,9.3,0.16149068322981366
+Cameroon,2010,AFR,Africa,CMR,Both sexes,9.6,0.09714285714285714
+Oman,2010,EMR,Eastern Mediterranean,OMN,Both sexes,9.6,0.049450549450549455
+Haiti,2010,AMR,Americas,HTI,Both sexes,9.7,0.2847682119205298
+Togo,2005,AFR,Africa,TGO,Both sexes,10.5,0.2138728323699422
+Eritrea,2005,AFR,Africa,ERI,Both sexes,10.9,0.02830188679245283
+Haiti,2005,AMR,Americas,HTI,Both sexes,10.9,0.3132530120481928
+Bahamas,2005,AMR,Americas,BHS,Both sexes,11.3,0.23369565217391305
+Eswatini,2005,AFR,Africa,SWZ,Both sexes,11.6,0.22872340425531912
+Liberia,2005,AFR,Africa,LBR,Both sexes,12.0,0.21717171717171715
+Congo,2005,AFR,Africa,COG,Both sexes,12.2,0.15714285714285714
+Mali,2005,AFR,Africa,MLI,Both sexes,12.6,0.125
+Senegal,2005,AFR,Africa,SEN,Both sexes,12.8,0.06694560669456068
+Panama,2005,AMR,Americas,PAN,Both sexes,13.0,0.23113207547169815
+Benin,2005,AFR,Africa,BEN,Both sexes,13.3,0.20361990950226244
+Colombia,2005,AMR,Americas,COL,Both sexes,13.5,0.40625
+Chad,2005,AFR,Africa,TCD,Both sexes,14.0,0.23348017621145375
+Uzbekistan,2005,EUR,Europe,UZB,Both sexes,14.9,0.04929577464788732
+Qatar,2005,EMR,Eastern Mediterranean,QAT,Both sexes,15.0,0.075
+Costa Rica,2005,AMR,Americas,CRI,Both sexes,15.2,0.3632286995515695
+Dominican Republic,2005,AMR,Americas,DOM,Both sexes,15.4,0.7262569832402235
+Jamaica,2005,AMR,Americas,JAM,Both sexes,16.4,0.28515625
+Kenya,2005,AFR,Africa,KEN,Both sexes,16.4,0.15140845070422534
+Singapore,2005,WPR,Western Pacific,SGP,Both sexes,16.6,0.19927536231884058
+Brunei Darussalam,2005,WPR,Western Pacific,BRN,Both sexes,16.7,0.1360544217687075
+Saudi Arabia,2005,EMR,Eastern Mediterranean,SAU,Both sexes,16.9,0.12292358803986711
+El Salvador,2005,AMR,Americas,SLV,Both sexes,17.0,0.14046822742474918
+Zimbabwe,2005,AFR,Africa,ZWE,Both sexes,17.0,0.07278481012658226
+Burundi,2005,AFR,Africa,BDI,Both sexes,17.8,0.42971887550200805
+Côte d’Ivoire,2005,AFR,Africa,CIV,Both sexes,17.8,0.12302839116719243
+Rwanda,2005,AFR,Africa,RWA,Both sexes,17.9,0.39299610894941633
+Zambia,2005,AFR,Africa,ZMB,Both sexes,18.2,0.2255892255892256
+Iran (Islamic Republic of),2005,EMR,Eastern Mediterranean,IRN,Both sexes,19.0,0.18012422360248445
+Gambia,2005,AFR,Africa,GMB,Both sexes,19.2,0.09090909090909091
+Uganda,2005,AFR,Africa,UGA,Both sexes,19.2,0.3252595155709343
+United Republic of Tanzania,2005,AFR,Africa,TZA,Both sexes,20.0,0.15229885057471265
+Morocco,2005,EMR,Eastern Mediterranean,MAR,Both sexes,20.5,0.04325699745547074
+Democratic People's Republic of Korea,2005,SEAR,South-East Asia,PRK,Both sexes,20.6,0.0
+Mexico,2005,AMR,Americas,MEX,Both sexes,20.6,0.34201954397394135
+United Arab Emirates,2005,EMR,Eastern Mediterranean,ARE,Both sexes,20.6,0.027500000000000004
+Algeria,2005,AFR,Africa,DZA,Both sexes,21.1,0.04975124378109452
+Malawi,2005,AFR,Africa,MWI,Both sexes,21.1,0.322884012539185
+Egypt,2005,EMR,Eastern Mediterranean,EGY,Both sexes,21.3,0.01909307875894988
+Guyana,2005,AMR,Americas,GUY,Both sexes,21.4,0.10852713178294573
+Mozambique,2005,AFR,Africa,MOZ,Both sexes,23.0,0.2777777777777778
+Namibia,2005,AFR,Africa,NAM,Both sexes,23.1,0.6441281138790036
+Paraguay,2005,AMR,Americas,PRY,Both sexes,23.4,0.3008356545961003
+Australia,2005,WPR,Western Pacific,AUS,Both sexes,23.8,0.8068181818181819
+Peru,2005,AMR,Americas,PER,Both sexes,23.8,0.24934383202099736
+Iceland,2005,EUR,Europe,ISL,Both sexes,24.3,0.88715953307393
+Burkina Faso,2005,AFR,Africa,BFA,Both sexes,24.4,0.6032786885245901
+New Zealand,2005,WPR,Western Pacific,NZL,Both sexes,24.4,0.948207171314741
+Seychelles,2005,AFR,Africa,SYC,Both sexes,24.4,0.20147420147420145
+Lesotho,2005,AFR,Africa,LSO,Both sexes,24.5,0.20740740740740743
+Republic of Moldova,2005,EUR,Europe,MDA,Both sexes,24.6,0.12557077625570778
+Slovenia,2005,EUR,Europe,SVN,Both sexes,24.6,0.8458646616541353
+Kuwait,2005,EMR,Eastern Mediterranean,KWT,Both sexes,25.0,0.12387387387387387
+Azerbaijan,2005,EUR,Europe,AZE,Both sexes,25.3,0.0059760956175298795
+Italy,2005,EUR,Europe,ITA,Both sexes,25.5,0.6419354838709677
+Portugal,2005,EUR,Europe,PRT,Both sexes,25.8,0.48275862068965525
+Iraq,2005,EMR,Eastern Mediterranean,IRQ,Both sexes,25.9,0.1488888888888889
+Finland,2005,EUR,Europe,FIN,Both sexes,26.1,0.74
+Sri Lanka,2005,SEAR,South-East Asia,LKA,Both sexes,26.1,0.13755458515283844
+Malaysia,2005,WPR,Western Pacific,MYS,Both sexes,26.5,0.04536489151873767
+Bahrain,2005,EMR,Eastern Mediterranean,BHR,Both sexes,27.0,0.2523148148148148
+Brazil,2005,AMR,Americas,BRA,Both sexes,27.0,0.5635838150289018
+Luxembourg,2005,EUR,Europe,LUX,Both sexes,27.1,0.7508090614886731
+Yemen,2005,EMR,Eastern Mediterranean,YEM,Both sexes,27.4,0.36318407960199
+Switzerland,2005,EUR,Europe,CHE,Both sexes,27.5,0.740506329113924
+China,2005,WPR,Western Pacific,CHN,Both sexes,27.8,0.0509433962264151
+Belgium,2005,EUR,Europe,BEL,Both sexes,28.5,0.7647058823529412
+Botswana,2005,AFR,Africa,BWA,Both sexes,28.9,0.5439999999999999
+Thailand,2005,SEAR,South-East Asia,THA,Both sexes,28.9,0.09073724007561437
+Vanuatu,2005,WPR,Western Pacific,VUT,Both sexes,29.3,0.08133086876155268
+Israel,2005,EUR,Europe,ISR,Both sexes,29.5,0.5499999999999999
+Netherlands,2005,EUR,Europe,NLD,Both sexes,29.5,0.84375
+Japan,2005,WPR,Western Pacific,JPN,Both sexes,29.6,0.2891304347826087
+United States of America,2005,AMR,Americas,USA,Both sexes,30.0,0.6592797783933518
+Kyrgyzstan,2005,EUR,Europe,KGZ,Both sexes,30.4,0.08007117437722419
+Fiji,2005,WPR,Western Pacific,FJI,Both sexes,30.6,0.2884210526315789
+Kazakhstan,2005,EUR,Europe,KAZ,Both sexes,30.6,0.1769230769230769
+Canada,2005,AMR,Americas,CAN,Both sexes,30.7,0.6390374331550802
+Republic of Korea,2005,WPR,Western Pacific,KOR,Both sexes,30.7,0.12248628884826325
+Sierra Leone,2005,AFR,Africa,SLE,Both sexes,30.7,0.41801385681293307
+Denmark,2005,EUR,Europe,DNK,Both sexes,30.9,0.847305389221557
+Palau,2005,WPR,Western Pacific,PLW,Both sexes,30.9,0.35307017543859653
+Malta,2005,EUR,Europe,MLT,Both sexes,31.2,0.6595744680851063
+United Kingdom of Great Britain and Northern Ireland,2005,EUR,Europe,GBR,Both sexes,31.6,1.0191693290734825
+Ireland,2005,EUR,Europe,IRL,Both sexes,31.7,0.9843260188087775
+Philippines,2005,WPR,Western Pacific,PHL,Both sexes,31.7,0.21264367816091953
+Germany,2005,EUR,Europe,DEU,Both sexes,31.8,0.8068181818181818
+Slovakia,2005,EUR,Europe,SVK,Both sexes,32.0,0.5214285714285714
+Russian Federation,2005,EUR,Europe,RUS,Both sexes,32.2,0.2682445759368836
+Tonga,2005,WPR,Western Pacific,TON,Both sexes,32.2,0.27524752475247527
+Armenia,2005,EUR,Europe,ARM,Both sexes,32.3,0.03525641025641026
+Albania,2005,EUR,Europe,ALB,Both sexes,32.7,0.18083182640144665
+Georgia,2005,EUR,Europe,GEO,Both sexes,32.7,0.09899328859060404
+Mauritius,2005,AFR,Africa,MUS,Both sexes,32.7,0.1869328493647913
+Uruguay,2005,AMR,Americas,URY,Both sexes,33.1,0.7440633245382586
+Pakistan,2005,EMR,Eastern Mediterranean,PAK,Both sexes,33.3,0.3286852589641434
+Lithuania,2005,EUR,Europe,LTU,Both sexes,33.4,0.44685466377440347
+Turkey,2005,EUR,Europe,TUR,Both sexes,33.4,0.31692913385826776
+Comoros,2005,AFR,Africa,COM,Both sexes,33.5,0.731266149870801
+Czechia,2005,EUR,Europe,CZE,Both sexes,33.7,0.7237851662404092
+Belarus,2005,EUR,Europe,BLR,Both sexes,34.0,0.2099644128113879
+Norway,2005,EUR,Europe,NOR,Both sexes,34.0,0.9484240687679084
+Spain,2005,EUR,Europe,ESP,Both sexes,34.4,0.7096774193548387
+Ukraine,2005,EUR,Europe,UKR,Both sexes,34.4,0.244122965641953
+France,2005,EUR,Europe,FRA,Both sexes,34.5,0.8373333333333333
+Mongolia,2005,WPR,Western Pacific,MNG,Both sexes,34.7,0.16806722689075632
+Croatia,2005,EUR,Europe,HRV,Both sexes,35.2,0.7279411764705883
+Tunisia,2005,EMR,Eastern Mediterranean,TUN,Both sexes,35.3,0.0745814307458143
+Andorra,2005,EUR,Europe,AND,Both sexes,35.4,0.7184466019417476
+Poland,2005,EUR,Europe,POL,Both sexes,35.8,0.7396593673965937
+South Africa,2005,AFR,Africa,ZAF,Both sexes,35.8,0.5234042553191489
+Romania,2005,EUR,Europe,ROU,Both sexes,36.3,0.5501066098081023
+Hungary,2005,EUR,Europe,HUN,Both sexes,37.0,0.7535545023696683
+Argentina,2005,AMR,Americas,ARG,Both sexes,37.1,0.6659192825112107
+Samoa,2005,WPR,Western Pacific,WSM,Both sexes,37.2,0.41523809523809524
+Cambodia,2005,WPR,Western Pacific,KHM,Both sexes,37.4,0.2525083612040134
+Cook Islands,2005,WPR,Western Pacific,COK,Both sexes,37.6,0.7652582159624414
+Estonia,2005,EUR,Europe,EST,Both sexes,37.7,0.5294117647058824
+Madagascar,2005,AFR,Africa,MDG,Both sexes,38.5,0.4338919925512104
+Latvia,2005,EUR,Europe,LVA,Both sexes,39.4,0.44852941176470584
+Indonesia,2005,SEAR,South-East Asia,IDN,Both sexes,40.0,0.18168389955686853
+Cuba,2005,AMR,Americas,CUB,Both sexes,40.2,0.4972067039106145
+Cyprus,2005,EUR,Europe,CYP,Both sexes,40.6,0.36930860033726814
+Solomon Islands,2005,WPR,Western Pacific,SLB,Both sexes,40.8,0.42334494773519166
+India,2005,SEAR,South-East Asia,IND,Both sexes,41.3,0.4802867383512545
+Austria,2005,EUR,Europe,AUT,Both sexes,41.7,0.8370044052863437
+Lebanon,2005,EMR,Eastern Mediterranean,LBN,Both sexes,43.5,0.7484909456740443
+Bosnia and Herzegovina,2005,EUR,Europe,BIH,Both sexes,43.7,0.6185185185185185
+Serbia,2005,EUR,Europe,SRB,Both sexes,44.2,0.822680412371134
+Sweden,2005,EUR,Europe,SWE,Both sexes,44.6,1.1288782816229117
+Bulgaria,2005,EUR,Europe,BGR,Both sexes,46.1,0.6917431192660551
+Greece,2005,EUR,Europe,GRC,Both sexes,46.7,0.71875
+Bangladesh,2005,SEAR,South-East Asia,BGD,Both sexes,47.2,0.4796238244514107
+Ghana,2005,AFR,Africa,GHA,Both sexes,5.5,0.08910891089108912
+Timor-Leste,2005,SEAR,South-East Asia,TLS,Both sexes,50.4,0.1773628938156359
+Chile,2005,AMR,Americas,CHL,Both sexes,50.7,0.8571428571428571
+Nepal,2005,SEAR,South-East Asia,NPL,Both sexes,53.4,0.6108597285067874
+Lao People's Democratic Republic,2005,WPR,Western Pacific,LAO,Both sexes,54.0,0.37803320561941256
+Myanmar,2005,SEAR,South-East Asia,MMR,Both sexes,57.7,0.4479297365119197
+Tuvalu,2005,WPR,Western Pacific,TUV,Both sexes,58.2,0.458072590738423
+Sao Tome and Principe,2005,AFR,Africa,STP,Both sexes,6.0,0.30434782608695654
+Ethiopia,2005,AFR,Africa,ETH,Both sexes,6.1,0.11926605504587157
+Nigeria,2005,AFR,Africa,NGA,Both sexes,6.4,0.10344827586206896
+Kiribati,2005,WPR,Western Pacific,KIR,Both sexes,62.9,0.6169665809768637
+Nauru,2005,WPR,Western Pacific,NRU,Both sexes,65.0,1.1069692058346838
+Niger,2005,AFR,Africa,NER,Both sexes,8.0,0.11888111888111887
+Oman,2005,EMR,Eastern Mediterranean,OMN,Both sexes,9.5,0.05555555555555555
+Barbados,2005,AMR,Americas,BRB,Both sexes,9.8,0.16568047337278108
+Cameroon,2005,AFR,Africa,CMR,Both sexes,9.8,0.12571428571428572
+Cameroon,2000,AFR,Africa,CMR,Both sexes,10.2,0.15909090909090906
+Barbados,2000,AMR,Americas,BRB,Both sexes,10.5,0.17318435754189945
+Congo,2000,AFR,Africa,COG,Both sexes,11.2,0.2173913043478261
+Bahamas,2000,AMR,Americas,BHS,Both sexes,11.8,0.25668449197860965
+Togo,2000,AFR,Africa,TGO,Both sexes,12.2,0.27225130890052357
+Eswatini,2000,AFR,Africa,SWZ,Both sexes,12.3,0.3015873015873016
+Haiti,2000,AMR,Americas,HTI,Both sexes,12.4,0.3405405405405405
+Eritrea,2000,AFR,Africa,ERI,Both sexes,12.8,0.028112449799196786
+Mali,2000,AFR,Africa,MLI,Both sexes,13.0,0.1511111111111111
+Liberia,2000,AFR,Africa,LBR,Both sexes,14.2,0.2792792792792793
+Senegal,2000,AFR,Africa,SEN,Both sexes,14.7,0.08058608058608059
+Chad,2000,AFR,Africa,TCD,Both sexes,15.4,0.3148936170212766
+Qatar,2000,EMR,Eastern Mediterranean,QAT,Both sexes,15.6,0.08710801393728224
+Uzbekistan,2000,EUR,Europe,UZB,Both sexes,16.1,0.04545454545454545
+Singapore,2000,WPR,Western Pacific,SGP,Both sexes,16.6,0.208029197080292
+Colombia,2000,AMR,Americas,COL,Both sexes,16.8,0.4525862068965517
+Panama,2000,AMR,Americas,PAN,Both sexes,16.9,0.22382671480144406
+Benin,2000,AFR,Africa,BEN,Both sexes,17.1,0.23104693140794225
+Saudi Arabia,2000,EMR,Eastern Mediterranean,SAU,Both sexes,17.2,0.15824915824915825
+Brunei Darussalam,2000,WPR,Western Pacific,BRN,Both sexes,17.4,0.1644295302013423
+Costa Rica,2000,AMR,Americas,CRI,Both sexes,18.2,0.37735849056603776
+Zimbabwe,2000,AFR,Africa,ZWE,Both sexes,18.3,0.086053412462908
+Kenya,2000,AFR,Africa,KEN,Both sexes,18.7,0.16149068322981366
+Dominican Republic,2000,AMR,Americas,DOM,Both sexes,18.9,0.7465437788018433
+El Salvador,2000,AMR,Americas,SLV,Both sexes,19.1,0.1540785498489426
+Jamaica,2000,AMR,Americas,JAM,Both sexes,19.3,0.3074324324324324
+Zambia,2000,AFR,Africa,ZMB,Both sexes,19.9,0.24764890282131663
+Rwanda,2000,AFR,Africa,RWA,Both sexes,20.2,0.40909090909090906
+Côte d’Ivoire,2000,AFR,Africa,CIV,Both sexes,20.4,0.1558073654390935
+Burundi,2000,AFR,Africa,BDI,Both sexes,20.6,0.4661921708185053
+Iran (Islamic Republic of),2000,EMR,Eastern Mediterranean,IRN,Both sexes,21.4,0.20168067226890754
+Egypt,2000,EMR,Eastern Mediterranean,EGY,Both sexes,21.5,0.02386634844868735
+Democratic People's Republic of Korea,2000,SEAR,South-East Asia,PRK,Both sexes,21.7,0.0
+Gambia,2000,AFR,Africa,GMB,Both sexes,21.7,0.10997442455242966
+United Arab Emirates,2000,EMR,Eastern Mediterranean,ARE,Both sexes,21.8,0.030732860520094565
+Algeria,2000,AFR,Africa,DZA,Both sexes,22.4,0.05660377358490566
+Morocco,2000,EMR,Eastern Mediterranean,MAR,Both sexes,23.4,0.049217002237136466
+Lesotho,2000,AFR,Africa,LSO,Both sexes,23.5,0.2983425414364641
+United Republic of Tanzania,2000,AFR,Africa,TZA,Both sexes,23.6,0.1597051597051597
+Mexico,2000,AMR,Americas,MEX,Both sexes,24.1,0.3577464788732394
+Republic of Moldova,2000,EUR,Europe,MDA,Both sexes,24.5,0.12385321100917432
+Uganda,2000,AFR,Africa,UGA,Both sexes,25.2,0.3557951482479784
+Portugal,2000,EUR,Europe,PRT,Both sexes,25.3,0.42134831460674155
+Slovenia,2000,EUR,Europe,SVN,Both sexes,25.3,0.8703703703703703
+Seychelles,2000,AFR,Africa,SYC,Both sexes,25.7,0.2037470725995316
+Malawi,2000,AFR,Africa,MWI,Both sexes,25.8,0.34986945169712796
+Kuwait,2000,EMR,Eastern Mediterranean,KWT,Both sexes,26.3,0.14814814814814814
+Italy,2000,EUR,Europe,ITA,Both sexes,26.4,0.6048632218844985
+Guyana,2000,AMR,Americas,GUY,Both sexes,26.9,0.11180124223602486
+Namibia,2000,AFR,Africa,NAM,Both sexes,27.0,0.9081272084805653
+Australia,2000,WPR,Western Pacific,AUS,Both sexes,27.6,0.842809364548495
+Mozambique,2000,AFR,Africa,MOZ,Both sexes,27.8,0.30210772833723654
+Iraq,2000,EMR,Eastern Mediterranean,IRQ,Both sexes,28.0,0.18143459915611815
+Azerbaijan,2000,EUR,Europe,AZE,Both sexes,28.1,0.007155635062611808
+Bahrain,2000,EMR,Eastern Mediterranean,BHR,Both sexes,28.1,0.27210884353741494
+Sri Lanka,2000,SEAR,South-East Asia,LKA,Both sexes,28.3,0.18658280922431866
+Switzerland,2000,EUR,Europe,CHE,Both sexes,28.5,0.7220543806646524
+Malaysia,2000,WPR,Western Pacific,MYS,Both sexes,28.9,0.05860805860805861
+Finland,2000,EUR,Europe,FIN,Both sexes,29.1,0.7017543859649122
+China,2000,WPR,Western Pacific,CHN,Both sexes,29.2,0.058076225045372055
+Luxembourg,2000,EUR,Europe,LUX,Both sexes,29.5,0.7302052785923753
+New Zealand,2000,WPR,Western Pacific,NZL,Both sexes,29.6,0.9966329966329968
+Paraguay,2000,AMR,Americas,PRY,Both sexes,29.8,0.33707865168539325
+Belgium,2000,EUR,Europe,BEL,Both sexes,29.9,0.7262247838616714
+Burkina Faso,2000,AFR,Africa,BFA,Both sexes,29.9,0.8012048192771084
+Iceland,2000,EUR,Europe,ISL,Both sexes,30.3,0.8445121951219513
+Yemen,2000,EMR,Eastern Mediterranean,YEM,Both sexes,30.9,0.39592760180995473
+Israel,2000,EUR,Europe,ISR,Both sexes,31.3,0.5928753180661578
+Kyrgyzstan,2000,EUR,Europe,KGZ,Both sexes,31.7,0.08732876712328767
+Thailand,2000,SEAR,South-East Asia,THA,Both sexes,31.8,0.09844559585492228
+Botswana,2000,AFR,Africa,BWA,Both sexes,32.1,0.7055702917771883
+Slovakia,2000,EUR,Europe,SVK,Both sexes,32.1,0.4724770642201835
+Vanuatu,2000,WPR,Western Pacific,VUT,Both sexes,32.1,0.08460236886632826
+Netherlands,2000,EUR,Europe,NLD,Both sexes,32.2,0.8505747126436782
+United States of America,2000,AMR,Americas,USA,Both sexes,32.3,0.6709844559585492
+Fiji,2000,WPR,Western Pacific,FJI,Both sexes,32.7,0.2976190476190476
+Brazil,2000,AMR,Americas,BRA,Both sexes,32.8,0.5793269230769231
+Kazakhstan,2000,EUR,Europe,KAZ,Both sexes,33.2,0.18783542039355994
+Japan,2000,WPR,Western Pacific,JPN,Both sexes,33.3,0.2783109404990403
+Tonga,2000,WPR,Western Pacific,TON,Both sexes,33.3,0.28571428571428575
+Germany,2000,EUR,Europe,DEU,Both sexes,33.6,0.7919999999999999
+Malta,2000,EUR,Europe,MLT,Both sexes,33.9,0.6104513064133016
+Peru,2000,AMR,Americas,PER,Both sexes,33.9,0.2574074074074074
+Albania,2000,EUR,Europe,ALB,Both sexes,34.2,0.19337979094076654
+Russian Federation,2000,EUR,Europe,RUS,Both sexes,34.2,0.23243243243243245
+Armenia,2000,EUR,Europe,ARM,Both sexes,34.3,0.039334341906202726
+Palau,2000,WPR,Western Pacific,PLW,Both sexes,34.3,0.374
+Georgia,2000,EUR,Europe,GEO,Both sexes,34.4,0.0992
+France,2000,EUR,Europe,FRA,Both sexes,34.6,0.7974025974025973
+Czechia,2000,EUR,Europe,CZE,Both sexes,34.8,0.71007371007371
+Croatia,2000,EUR,Europe,HRV,Both sexes,34.9,0.6619047619047619
+Republic of Korea,2000,WPR,Western Pacific,KOR,Both sexes,35.0,0.1111111111111111
+United Kingdom of Great Britain and Northern Ireland,2000,EUR,Europe,GBR,Both sexes,35.2,0.9287671232876712
+Philippines,2000,WPR,Western Pacific,PHL,Both sexes,35.3,0.23036649214659685
+Turkey,2000,EUR,Europe,TUR,Both sexes,35.4,0.2849364791288566
+Ireland,2000,EUR,Europe,IRL,Both sexes,35.5,1.0639534883720931
+Mauritius,2000,AFR,Africa,MUS,Both sexes,35.9,0.22564102564102562
+Andorra,2000,EUR,Europe,AND,Both sexes,36.3,0.7018779342723004
+Lithuania,2000,EUR,Europe,LTU,Both sexes,36.3,0.41796874999999994
+Sierra Leone,2000,AFR,Africa,SLE,Both sexes,37.0,0.49094567404426553
+Belarus,2000,EUR,Europe,BLR,Both sexes,37.3,0.1996779388083736
+Spain,2000,EUR,Europe,ESP,Both sexes,37.5,0.644736842105263
+Denmark,2000,EUR,Europe,DNK,Both sexes,37.6,0.7966507177033493
+Canada,2000,AMR,Americas,CAN,Both sexes,37.9,0.6829268292682926
+South Africa,2000,AFR,Africa,ZAF,Both sexes,38.1,0.6109936575052854
+Mongolia,2000,WPR,Western Pacific,MNG,Both sexes,38.5,0.1879815100154083
+Ukraine,2000,EUR,Europe,UKR,Both sexes,38.8,0.2459807073954984
+Uruguay,2000,AMR,Americas,URY,Both sexes,39.0,0.7528089887640449
+Tunisia,2000,EMR,Eastern Mediterranean,TUN,Both sexes,39.7,0.08469945355191257
+Hungary,2000,EUR,Europe,HUN,Both sexes,40.0,0.7489082969432315
+Latvia,2000,EUR,Europe,LVA,Both sexes,40.5,0.4379432624113475
+Poland,2000,EUR,Europe,POL,Both sexes,40.8,0.7548387096774194
+Estonia,2000,EUR,Europe,EST,Both sexes,41.1,0.48462929475587707
+Samoa,2000,WPR,Western Pacific,WSM,Both sexes,41.3,0.411965811965812
+Pakistan,2000,EMR,Eastern Mediterranean,PAK,Both sexes,41.5,0.40916808149405776
+Indonesia,2000,SEAR,South-East Asia,IDN,Both sexes,41.8,0.25487256371814093
+Romania,2000,EUR,Europe,ROU,Both sexes,42.0,0.601145038167939
+Solomon Islands,2000,WPR,Western Pacific,SLB,Both sexes,42.4,0.45128205128205123
+Cyprus,2000,EUR,Europe,CYP,Both sexes,42.5,0.3412322274881517
+Norway,2000,EUR,Europe,NOR,Both sexes,43.0,0.9545454545454546
+Cook Islands,2000,WPR,Western Pacific,COK,Both sexes,43.6,0.7962962962962963
+Comoros,2000,AFR,Africa,COM,Both sexes,43.7,1.0278422273781902
+Madagascar,2000,AFR,Africa,MDG,Both sexes,44.0,0.5602836879432624
+Lebanon,2000,EMR,Eastern Mediterranean,LBN,Both sexes,44.1,0.7659999999999999
+Cambodia,2000,WPR,Western Pacific,KHM,Both sexes,44.4,0.31314623338257014
+Serbia,2000,EUR,Europe,SRB,Both sexes,45.9,0.7519083969465649
+Argentina,2000,AMR,Americas,ARG,Both sexes,46.2,0.7289719626168224
+Bosnia and Herzegovina,2000,EUR,Europe,BIH,Both sexes,46.3,0.6065857885615251
+Cuba,2000,AMR,Americas,CUB,Both sexes,47.5,0.561576354679803
+Austria,2000,EUR,Europe,AUT,Both sexes,48.1,0.8132075471698114
+India,2000,SEAR,South-East Asia,IND,Both sexes,48.9,0.573268921095008
+Bulgaria,2000,EUR,Europe,BGR,Both sexes,49.6,0.654424040066778
+Greece,2000,EUR,Europe,GRC,Both sexes,50.2,0.7133105802047781
+Bangladesh,2000,SEAR,South-East Asia,BGD,Both sexes,51.5,0.5788667687595712
+Sweden,2000,EUR,Europe,SWE,Both sexes,52.7,1.1598360655737705
+Chile,2000,AMR,Americas,CHL,Both sexes,53.4,0.8704028021015762
+Timor-Leste,2000,SEAR,South-East Asia,TLS,Both sexes,54.4,0.1945054945054945
+Sao Tome and Principe,2000,AFR,Africa,STP,Both sexes,6.4,0.391304347826087
+Ghana,2000,AFR,Africa,GHA,Both sexes,6.5,0.10256410256410256
+Ethiopia,2000,AFR,Africa,ETH,Both sexes,6.8,0.12295081967213116
+Lao People's Democratic Republic,2000,WPR,Western Pacific,LAO,Both sexes,61.1,0.45595238095238094
+Tuvalu,2000,WPR,Western Pacific,TUV,Both sexes,61.8,0.4621749408983452
+Myanmar,2000,SEAR,South-East Asia,MMR,Both sexes,63.3,0.5265060240963856
+Nepal,2000,SEAR,South-East Asia,NPL,Both sexes,64.2,0.7374830852503382
+Kiribati,2000,WPR,Western Pacific,KIR,Both sexes,67.9,0.6621787025703795
+Nigeria,2000,AFR,Africa,NGA,Both sexes,7.3,0.1317829457364341
+Niger,2000,AFR,Africa,NER,Both sexes,7.9,0.16176470588235295
+Nauru,2000,WPR,Western Pacific,NRU,Both sexes,71.0,1.1370481927710843
+Oman,2000,EMR,Eastern Mediterranean,OMN,Both sexes,9.5,0.0670391061452514
