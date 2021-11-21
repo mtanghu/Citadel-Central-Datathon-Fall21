@@ -1,0 +1,238 @@
+---
+title: "Untitled"
+author: "Chloris Jiang"
+date: "16/11/2021"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(gridExtra)  
+library(ggplot2) 
+library(skimr)
+library(corrplot)
+```
+
+```{r}
+df <- read.csv('us_chronic_resp_disease.csv')
+df
+
+df$cause_name = as.factor(df$cause_name)
+df$location_name = as.factor(df$location_name)
+df$sex  = as.factor(df$sex)
+skim(df)
+
+df %>% ggplot(aes(mx))+geom_histogram()
+
+
+
+
+bar <- subset(df, sex == "Both")
+bar %>% ggplot(aes(mx))+geom_histogram()
+bar
+a <- bar %>% 
+  group_by(year_id,cause_name) %>% 
+  summarise_at(vars(mx),           
+               list(Estimated= mean)) 
+a
+
+g <- ggplot(a, aes(x = year_id, y = Estimated)) 
+g+ geom_line(aes(color = cause_name), size = 1)+theme_minimal() + labs(title='Figure1: Estimated mortality rates from chronic respiratory diseases in the US',subtitle = 'Deaths per 100,000 population',caption = 'Data source: IHME',x='Year', y='Age-standardized mortality rates')+  theme(legend.title = element_text( size=8), legend.text=element_text(size=6)) + scale_color_brewer(palette ="Paired")+ ylim(0, 70)+ annotate("text", x = 2007, y = 65, label = "chronic respiratory diseases", colour = "dark green",size=2.5)+ annotate("text", x = 2007, y = 57, label = "Chronic obstructive pulmonary disease", colour = "#8FBC8F",size=2.5)+ annotate("text", x = 2007, y = 8, label = "Other chronic respiratory diseases", colour = "Dark blue",size=2.5)+theme(legend.position = "none") 
+
+# -----------
+
+b <- subset(df, cause_name == 'Chronic obstructive pulmonary disease')
+b
+
+
+c <- b %>% 
+  group_by(year_id,sex,cause_name,FIPS) %>% 
+  summarise_at(vars(mx),           
+               list(Estimated= mean)) 
+c
+g <- ggplot(c, aes(x = year_id, y = Estimated)) 
+g+ geom_line(aes(color = sex), size = 1)+theme_minimal()+scale_color_brewer(palette ="Paired")+ labs(title='Estimated mortality rates for COPD differ by sex',subtitle = 'Deaths per 100,000 population',caption = 'Data source: IHME',x='Year', y='Age-standardized mortality rates')
+
+
+
+
+c$FIPS <- as.factor(c$FIPS)
+
+c<- subset(c,  sex == "Both")
+c <- c %>% arrange(c$FIPS)
+c <- head(c, n = 350)
+
+g <- ggplot(c, aes(x = year_id, y = Estimated)) 
+g+ geom_line(aes(color = FIPS), size = 1)+theme_minimal()+scale_color_brewer(palette ="Paired")+ labs(title='Estimated mortality rates for COPDs differ by county',subtitle = 'Deaths per 100,000 population',caption = 'Data source: IHME',x='Year', y='Age-standardized mortality rates')
+
+# ------------
+
+
+d <- subset(df, cause_name == 'Chronic respiratory diseases' & sex != 'Both')
+d$year = as.numeric(d$year_id-1980)
+d <- d %>% mutate (Sex = as.factor(ifelse (sex =='Male',0,1)))
+d
+cor(d$year,d$mx)
+
+
+d1 <- subset(df, cause_name == 'Chronic respiratory diseases' & sex == 'Both')
+d1$year = as.numeric(d1$year_id-1980)
+d <- d1 %>% mutate (Sex = as.factor(ifelse (sex =='Male',0,1)))
+c <- d1%>% select(FIPS,year,sex,mx)
+head(c, n = 70)
+
+g <- ggplot(c,aes(x=year, y=mx)) 
+g+geom_smooth(method = 'lm') +geom_point() + facet_wrap(~FIPS)
+
+
+
+cor()
+```
+
+
+```{r}
+p1 <- ggplot(d, aes(x=mx)) +
+  geom_density(fill="gray")+theme_classic()+
+  labs(title="Mortality rate density curve",x='Age-standardized mortality rates', y = "Density")+
+  geom_vline(aes(xintercept=mean(mx)), color="blue",
+             linetype="dashed")
+
+p2 <- ggplot(d, aes(x=mx, color=sex)) +
+  geom_density()+theme_minimal()+
+  labs(title="Mortality rate density curve by gender",x='Age-standardized mortality rates', y = "Density")+ scale_color_brewer(palette="Paired")
+grid.arrange(p1, p2, ncol = 1,nrow =2)
+
+
+
+
+
+mod1 <- lm(mx ~ Sex+year+FIPS,d)
+summary(mod1)
+plot(mod1)
+par(mfrow=c(2,2))
+```
+
+
+```{r}
+install.packages('sjPlot')
+library(sjPlot)
+mean(d$mx)
+var(d$mx)
+skim(d,mx)
+# The variance is much greater than the mean, which suggests that we will have over-dispersion in the model.
+model1 <- glmer(formula = log(mx) ~ Sex+year+(1+Sex|FIPS), data = d,family=gaussian(link = identity))
+print(summary(model),correlation=TRUE)
+knitr::kable(confint(model))
+lattice::dotplot(lme4::ranef(model))
+
+
+model <- glmer(formula = log(mx) ~ Sex*year+(1|FIPS), data = d,family=gaussian(link = identity))
+print(summary(model),correlation=TRUE)
+knitr::kable(confint(model))
+lattice::dotplot(lme4::ranef(model))
+
+lattice::qqmath(model,pch = 16, col = "black")
+plot(model,pch = 16, col = "black") 
+
+#which should be used when the target contains all positive values and is skewed towards larger values,This distribution is appropriate for a target with positive scale values that are skewed toward larger positive values. If a data value is less than or equal to 0 or is missing, then the corresponding case is not used in the analysis.
+library("lme4")
+ranef(model, aug = TRUE)
+
+install.packages('merTools')
+library(merTools)
+predictInterval(model)   # for various model predictions, possibly with new data
+REsim(model)             # mean, median and sd of the random effect estimates
+plotREsim(REsim(model))
+
+exp(summary(model)$coef)
+
+knitr::kable(summary(model)$coef,digit=4)
+
+
+
+lmtest::lrtest(model,model1)  
+
+
+# Linear mixed model with  student as random intercept
+lmm <- lme4::lmer(mx~Sex+year+(1|FIPS),d,REML = FALSE)
+print(summary(lmm),correlation=TRUE)
+confint(lmm)
+
+lmm1 <- lme4::lmer(mx~Sex*year+(1|FIPS),d,REML = FALSE)
+
+
+lmm2 <- lme4::lmer(mx~year+(Sex| FIPS),d,REML = FALSE)
+print(summary(lmm2),correlation=TRUE)
+confint(lmm2)
+lattice::dotplot(lme4::ranef(lmm2))
+plot(lmm2) 
+lattice::qqmath(lmm2) 
+
+
+
+# Random effect significance test 
+lattice::dotplot(lme4::ranef(lmm1))
+
+# Assumption check 
+plot(lmm1) # Residuals look good, there isn't any clear pattern
+lattice::qqmath(lmm1) # Heavy-tailed pattern, This is a indicator that there many be other distribution that will fit my data better (e.g. student t)
+
+# heteroscedastic (cone-shaped) pattern
+
+# Likelihood ratio test 
+lmtest::lrtest(lmm2,lmm3)  
+# With a .05 significance level, we reject null hypothesis with p-value <0.05. This means we should use the complex model instead of the nested model. 
+```
+
+
+
+
+```{r}
+dat <- read.csv('tobacco_use_us.csv')
+dat
+
+dat %>% select (Topic) %>% table (useNA = 'always')
+dat %>% ggplot(aes(x=Topic)) + geom_bar()+theme_minimal()+ labs(title='Types of topics asked in tobacco_use_us data ')
+
+new <- subset(dat, Topic == "Current Smoker Status")
+new %>% select (Question) %>% table (useNA = 'always')
+new
+skim(new,Sample_Size )
+
+new$Sample_Size = as.numeric(new$Sample_Size)
+skim(new,Sample_Size )
+dim(new)
+
+a <- new %>% group_by(Response) %>% 
+  summarize(SUM = sum(Sample_Size, na.rm = TRUE)) 
+a
+
+
+
+a %>% ggplot(aes(fill=Response))+geom_bar(aes(y = SUM))
+new %>% select (Break_Out_Category) %>% table (useNA = 'always')
+
+b <- new %>% filter(Break_Out_Category=='Age Group') 
+
+b1 <- b %>% group_by(Response,Break_Out) %>% summarize(SUM = sum(Sample_Size, na.rm = TRUE)) 
+b1
+
+#~~~~~~
+b1 %>% ggplot(aes(Response, SUM))+geom_col(aes(y= SUM,
+            fill  = Break_Out), position = "dodge")+ scale_fill_brewer(palette ="RdBu")+theme_minimal()+ labs(title='Are you a smoker?',subtitle = 'Breakdown by age-group')
+#~~~~~
+
+#+ labs(x="I feel comfortable being myself at this institution", y="Percent", title="") + theme_minimal()+scale_fill_brewer(palette ="Set1")
+
+
+
+
+
+library(dplyr)
+library(scales)
+a %>% ggplot(aes(Response, SUM) )+geom_col()+theme_minimal()+
+  scale_y_continuous(labels = unit_format(unit = "M", scale = 1e-6))+ labs(x='', y="# of responses", title="Are you a smoker?") + theme_minimal()+scale_fill_brewer(palette ="Set1")
+
+```
+
