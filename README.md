@@ -1,11 +1,11 @@
 # Citadel-Central-Datathon-Fall21
 
+We got second place at the Citadel Central Datathon with an award of $2,500. Competitors were selected by cv and online assessment.
 
-## PAPER
-[Google Doc](https://docs.google.com/document/d/1zxOu8xR66_-v4k00smhzRjTNvJDsYsKf37HahYHPbaY/edit?usp=sharing)
+In this competition, teams of 4 were asked to analyze global and US tobacco datasets to find meaningful hidden insights through data analysis.
 
-## Questions Sheet
-[Google Doc](https://docs.google.com/document/d/1-N4ZZ4UhQbNJpbsWh2SwzFD6UlUGVN0r3F3LhqZeJ9I/edit?usp=sharing)
-
-## Previous Competitor Analysis
-[Google Doc](https://docs.google.com/document/d/1cPsGtAQNaPN1d5NrWrOi3gS5G0ncI1NV9CqZNS94NGo/edit?usp=sharing)
+## Team
+- Chloris Jiang (University of Toronto)
+- Jun Xu (University of Michigan)
+- Jinsu Zhang (Purdue University)
+- Michael Hu (Purdue University)
